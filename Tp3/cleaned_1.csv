@@ -1,0 +1,1750 @@
+SALES,YEAR_ID,QTR_ID,MONTH_ID,PRODUCTLINE,COUNTRY,TERRITORY
+2765.9,2003,2,5,Motorcycles,France,EMEA
+3884.34,2003,3,7,Motorcycles,France,EMEA
+2497.77,2003,4,11,Motorcycles,France,EMEA
+5512.32,2003,4,11,Motorcycles,Norway,EMEA
+4708.44,2004,1,1,Motorcycles,France,EMEA
+3965.66,2004,1,2,Motorcycles,Australia,APAC
+4177.35,2004,3,7,Motorcycles,France,EMEA
+2597.39,2004,3,9,Motorcycles,Finland,EMEA
+4394.38,2004,4,10,Motorcycles,Norway,EMEA
+7737.93,2004,4,11,Motorcycles,Austria,EMEA
+1451.0,2004,4,12,Motorcycles,Australia,APAC
+733.11,2005,1,2,Motorcycles,France,EMEA
+2434.56,2005,2,4,Motorcycles,UK,EMEA
+7516.08,2005,2,5,Motorcycles,Spain,EMEA
+5404.62,2003,1,1,Classic Cars,Norway,EMEA
+7209.11,2003,1,3,Classic Cars,Sweden,EMEA
+7329.06,2003,2,5,Classic Cars,Spain,EMEA
+10993.5,2003,3,9,Classic Cars,Singapore,Japan
+8014.82,2003,4,11,Classic Cars,Australia,APAC
+7290.36,2003,4,11,Classic Cars,France,EMEA
+7680.64,2004,2,6,Classic Cars,Japan,Japan
+4905.39,2004,3,7,Classic Cars,Australia,APAC
+8014.82,2004,3,8,Classic Cars,Italy,EMEA
+7136.19,2004,3,9,Classic Cars,Sweden,EMEA
+10172.7,2004,4,10,Classic Cars,France,EMEA
+3944.7,2004,4,11,Classic Cars,Australia,APAC
+2416.56,2005,1,3,Classic Cars,Australia,APAC
+12001.0,2005,2,5,Classic Cars,Spain,EMEA
+2793.86,2003,2,4,Motorcycles,Australia,APAC
+3307.77,2003,3,7,Motorcycles,France,EMEA
+4695.6,2003,4,11,Motorcycles,France,EMEA
+3660.92,2003,4,11,Motorcycles,Norway,EMEA
+3009.09,2004,1,1,Motorcycles,Japan,Japan
+5422.39,2004,1,2,Motorcycles,Australia,APAC
+2904.44,2004,3,7,Motorcycles,France,EMEA
+3757.26,2004,3,9,Motorcycles,France,EMEA
+2756.8,2004,4,11,Motorcycles,Japan,Japan
+1329.9,2004,4,12,Motorcycles,Australia,APAC
+5288.01,2005,1,2,Motorcycles,Australia,APAC
+5833.8,2005,2,4,Motorcycles,France,EMEA
+5887.35,2005,2,5,Motorcycles,Spain,EMEA
+9264.86,2003,2,4,Motorcycles,Australia,APAC
+7023.98,2003,3,7,Motorcycles,France,EMEA
+8892.9,2003,4,11,Motorcycles,France,EMEA
+8714.7,2003,4,11,Motorcycles,Norway,EMEA
+6123.4,2004,1,1,Motorcycles,Japan,Japan
+9774.03,2004,1,2,Motorcycles,Australia,APAC
+6901.92,2004,3,7,Motorcycles,France,EMEA
+6683.34,2004,3,9,Motorcycles,Finland,EMEA
+2990.13,2004,4,11,Motorcycles,Japan,Japan
+3834.38,2005,1,2,Motorcycles,Australia,APAC
+11886.6,2005,2,4,Motorcycles,UK,EMEA
+9218.16,2005,2,5,Motorcycles,Spain,EMEA
+7208.0,2003,1,2,Classic Cars,Denmark,EMEA
+5004.8,2003,2,4,Classic Cars,Austria,EMEA
+4398.24,2003,2,6,Classic Cars,UK,EMEA
+4526.08,2003,4,10,Classic Cars,Finland,EMEA
+5924.16,2003,4,10,Classic Cars,Sweden,EMEA
+3492.48,2003,4,11,Classic Cars,France,EMEA
+3854.24,2003,4,11,Classic Cars,UK,EMEA
+5324.4,2003,4,11,Classic Cars,Spain,EMEA
+3508.8,2004,3,7,Classic Cars,Belgium,EMEA
+4128.96,2004,4,11,Classic Cars,UK,EMEA
+3051.71,2004,4,11,Classic Cars,Norway,EMEA
+1962.22,2004,4,12,Classic Cars,Spain,EMEA
+2624.64,2004,4,12,Classic Cars,France,EMEA
+4046.25,2005,1,1,Classic Cars,Finland,EMEA
+3370.56,2005,1,3,Classic Cars,France,EMEA
+5398.26,2003,1,1,Classic Cars,Norway,EMEA
+4305.28,2003,2,4,Classic Cars,France,EMEA
+3347.74,2003,2,5,Classic Cars,Spain,EMEA
+3191.2,2003,3,9,Classic Cars,Singapore,Japan
+3536.82,2003,4,10,Classic Cars,Austria,EMEA
+5362.83,2003,4,11,Classic Cars,UK,EMEA
+4263.74,2003,4,11,Classic Cars,France,EMEA
+7020.48,2004,1,2,Classic Cars,Singapore,APAC
+4033.38,2004,2,6,Classic Cars,Singapore,APAC
+4302.08,2004,3,7,Classic Cars,Australia,APAC
+3855.9,2004,3,9,Classic Cars,Sweden,EMEA
+3188.12,2004,4,11,Classic Cars,Sweden,EMEA
+4428.0,2004,4,11,Classic Cars,Australia,APAC
+2297.05,2005,1,1,Classic Cars,Australia,APAC
+1735.3,2005,1,3,Classic Cars,Australia,APAC
+5894.94,2005,2,5,Classic Cars,France,EMEA
+5265.15,2003,1,3,Classic Cars,Philippines,Japan
+7599.9,2003,2,5,Classic Cars,France,EMEA
+5019.9,2003,4,11,Classic Cars,Australia,APAC
+5411.07,2003,4,11,Classic Cars,Norway,EMEA
+3840.9,2003,4,11,Classic Cars,Germany,EMEA
+3930.4,2003,4,12,Classic Cars,Spain,EMEA
+7498.9,2004,1,1,Classic Cars,France,EMEA
+4517.91,2004,1,2,Classic Cars,Switzerland,EMEA
+5774.72,2004,2,4,Classic Cars,Denmark,EMEA
+3922.56,2004,2,6,Classic Cars,UK,EMEA
+9160.36,2004,3,7,Classic Cars,Italy,EMEA
+3432.24,2004,3,8,Classic Cars,Switzerland,EMEA
+5521.89,2003,4,10,Classic Cars,Germany,EMEA
+6934.62,2004,4,10,Classic Cars,Germany,EMEA
+6876.11,2004,4,11,Classic Cars,Sweden,EMEA
+3584.25,2004,4,11,Classic Cars,Austria,EMEA
+2817.87,2005,1,1,Classic Cars,Finland,EMEA
+3420.0,2005,1,2,Classic Cars,France,EMEA
+2575.04,2005,1,3,Classic Cars,Sweden,EMEA
+1961.28,2005,2,5,Classic Cars,Austria,EMEA
+8690.36,2003,1,2,Classic Cars,Denmark,EMEA
+6034.38,2003,2,4,Classic Cars,Singapore,Japan
+4904.0,2003,3,9,Classic Cars,Spain,EMEA
+8594.52,2003,4,10,Classic Cars,Singapore,Japan
+7474.5,2003,4,11,Classic Cars,Italy,EMEA
+8602.92,2004,1,1,Classic Cars,France,EMEA
+7181.44,2004,1,2,Classic Cars,Ireland,EMEA
+8378.58,2004,1,3,Classic Cars,Spain,EMEA
+10606.2,2004,2,5,Classic Cars,Finland,EMEA
+8411.56,2004,3,9,Classic Cars,Italy,EMEA
+6570.76,2004,4,10,Classic Cars,UK,EMEA
+7975.44,2004,4,10,Classic Cars,Denmark,EMEA
+2688.0,2004,4,11,Classic Cars,Norway,EMEA
+1888.26,2004,4,11,Classic Cars,France,EMEA
+2513.28,2004,4,11,Classic Cars,Spain,EMEA
+4764.48,2004,4,12,Classic Cars,France,EMEA
+2280.96,2005,1,3,Classic Cars,France,EMEA
+3394.98,2003,1,1,Trucks and Buses,Norway,EMEA
+2439.57,2003,2,5,Trucks and Buses,Spain,EMEA
+4100.1,2003,3,9,Trucks and Buses,Singapore,Japan
+6563.06,2003,4,10,Trucks and Buses,Austria,EMEA
+6817.22,2003,4,11,Trucks and Buses,Australia,APAC
+4933.92,2003,4,11,Trucks and Buses,France,EMEA
+5759.42,2004,1,2,Trucks and Buses,France,EMEA
+6668.24,2004,2,6,Trucks and Buses,Japan,Japan
+4094.72,2004,3,7,Trucks and Buses,Australia,APAC
+6387.8,2004,3,9,Trucks and Buses,Sweden,EMEA
+6396.0,2004,4,10,Trucks and Buses,France,EMEA
+3586.43,2004,4,11,Trucks and Buses,Australia,APAC
+8470.14,2005,1,1,Trucks and Buses,Australia,APAC
+2464.8,2005,1,3,Trucks and Buses,Australia,APAC
+7969.36,2005,2,5,Trucks and Buses,Spain,EMEA
+8284.0,2003,2,5,Motorcycles,France,EMEA
+2711.2,2003,3,7,Motorcycles,France,EMEA
+4639.25,2003,4,11,Motorcycles,Australia,APAC
+6747.6,2003,4,11,Motorcycles,France,EMEA
+4771.8,2004,1,1,Motorcycles,France,EMEA
+6087.94,2004,1,2,Motorcycles,France,EMEA
+4157.04,2004,3,9,Motorcycles,Finland,EMEA
+4660.24,2004,4,10,Motorcycles,Norway,EMEA
+8118.55,2004,4,11,Motorcycles,Austria,EMEA
+3867.08,2005,1,2,Motorcycles,France,EMEA
+8648.64,2005,2,4,Motorcycles,UK,EMEA
+3447.78,2005,2,5,Motorcycles,Spain,EMEA
+5958.5,2003,1,1,Classic Cars,Spain,EMEA
+5911.64,2003,2,4,Classic Cars,Singapore,Japan
+5393.64,2003,3,9,Classic Cars,Spain,EMEA
+4880.02,2003,4,10,Classic Cars,Singapore,Japan
+8378.69,2003,4,11,Classic Cars,Italy,EMEA
+3142.36,2004,1,1,Classic Cars,France,EMEA
+4713.6,2004,1,2,Classic Cars,Ireland,EMEA
+7016.31,2004,1,3,Classic Cars,Germany,EMEA
+4381.25,2004,2,5,Classic Cars,Finland,EMEA
+4242.24,2004,3,9,Classic Cars,Italy,EMEA
+4982.7,2004,4,10,Classic Cars,UK,EMEA
+6393.54,2004,4,10,Classic Cars,Denmark,EMEA
+4059.33,2004,4,11,Classic Cars,France,EMEA
+4801.52,2004,4,11,Classic Cars,Spain,EMEA
+2711.66,2004,4,12,Classic Cars,Spain,EMEA
+5862.0,2005,1,1,Classic Cars,Japan,Japan
+6130.35,2003,1,3,Classic Cars,Philippines,Japan
+3693.34,2003,2,5,Classic Cars,France,EMEA
+5464.69,2003,4,11,Classic Cars,Austria,EMEA
+2860.76,2003,4,11,Classic Cars,Norway,EMEA
+5590.0,2003,4,11,Classic Cars,Germany,EMEA
+2254.8,2003,4,12,Classic Cars,Spain,EMEA
+4946.76,2004,1,1,Classic Cars,Spain,EMEA
+2495.5,2004,1,2,Classic Cars,Switzerland,EMEA
+3167.38,2004,2,4,Classic Cars,Denmark,EMEA
+2402.84,2004,2,6,Classic Cars,UK,EMEA
+2454.54,2004,3,7,Classic Cars,Italy,EMEA
+4756.5,2004,3,8,Classic Cars,Switzerland,EMEA
+3984.6,2003,4,10,Classic Cars,Germany,EMEA
+3100.32,2004,4,10,Classic Cars,Germany,EMEA
+4850.3,2004,4,11,Classic Cars,Sweden,EMEA
+4220.92,2004,4,11,Classic Cars,Austria,EMEA
+3288.82,2005,1,1,Classic Cars,Finland,EMEA
+1809.5,2005,1,3,Classic Cars,Sweden,EMEA
+1092.2,2005,2,5,Classic Cars,Austria,EMEA
+4566.05,2003,1,2,Classic Cars,Denmark,EMEA
+5938.14,2003,2,4,Classic Cars,Singapore,Japan
+7036.89,2003,3,9,Classic Cars,Spain,EMEA
+5559.03,2003,4,10,Classic Cars,Singapore,Japan
+7872.5,2003,4,11,Classic Cars,Italy,EMEA
+3114.4,2004,1,1,Classic Cars,France,EMEA
+5045.22,2004,1,2,Classic Cars,Ireland,EMEA
+6952.12,2004,1,3,Classic Cars,Spain,EMEA
+4157.73,2004,2,5,Classic Cars,Finland,EMEA
+8253.0,2004,3,9,Classic Cars,Italy,EMEA
+3633.4,2004,4,10,Classic Cars,UK,EMEA
+6913.8,2004,4,10,Classic Cars,Denmark,EMEA
+2583.6,2004,4,11,Classic Cars,Norway,EMEA
+3105.62,2004,4,11,Classic Cars,France,EMEA
+3042.41,2004,4,12,Classic Cars,France,EMEA
+5941.5,2005,1,1,Classic Cars,Japan,Japan
+3485.82,2003,1,3,Classic Cars,Philippines,Japan
+2042.88,2003,2,5,Classic Cars,France,EMEA
+2298.24,2003,4,11,Classic Cars,Australia,APAC
+1628.0,2003,4,11,Classic Cars,Norway,EMEA
+1939.2,2003,4,11,Classic Cars,Germany,EMEA
+3651.56,2003,4,12,Classic Cars,Spain,EMEA
+2591.96,2004,1,1,Classic Cars,France,EMEA
+2864.17,2004,1,2,Classic Cars,Switzerland,EMEA
+1484.2,2004,2,4,Classic Cars,Denmark,EMEA
+2254.25,2004,2,6,Classic Cars,UK,EMEA
+2681.35,2004,3,7,Classic Cars,Italy,EMEA
+2846.63,2004,3,8,Classic Cars,Switzerland,EMEA
+1685.42,2003,4,10,Classic Cars,Germany,EMEA
+3988.6,2004,4,10,Classic Cars,Germany,EMEA
+2789.96,2004,4,11,Classic Cars,Sweden,EMEA
+3368.16,2004,4,11,Classic Cars,Austria,EMEA
+2775.08,2005,1,1,Classic Cars,Finland,EMEA
+1627.92,2005,1,2,Classic Cars,Finland,EMEA
+2529.36,2005,1,3,Classic Cars,Sweden,EMEA
+3065.78,2005,2,5,Classic Cars,Austria,EMEA
+4615.78,2003,1,1,Trucks and Buses,Spain,EMEA
+2140.11,2003,3,8,Trucks and Buses,Finland,EMEA
+3327.6,2003,3,9,Trucks and Buses,Finland,EMEA
+6825.6,2003,4,10,Trucks and Buses,Singapore,Japan
+3543.28,2003,4,11,Trucks and Buses,UK,EMEA
+4516.22,2003,4,11,Trucks and Buses,Spain,EMEA
+5069.66,2004,2,5,Trucks and Buses,Spain,EMEA
+6541.2,2004,2,6,Trucks and Buses,Singapore,APAC
+6185.7,2004,4,10,Trucks and Buses,Denmark,EMEA
+6372.6,2004,4,11,Trucks and Buses,France,EMEA
+2694.72,2004,4,12,Trucks and Buses,Spain,EMEA
+5951.34,2005,2,5,Trucks and Buses,Spain,EMEA
+4692.6,2005,2,5,Trucks and Buses,France,EMEA
+3731.04,2003,1,3,Classic Cars,Philippines,Japan
+2142.0,2003,2,5,Classic Cars,France,EMEA
+4391.1,2003,4,11,Classic Cars,Austria,EMEA
+4477.32,2003,4,11,Classic Cars,Norway,EMEA
+5195.85,2003,4,12,Classic Cars,Spain,EMEA
+4180.44,2004,1,1,Classic Cars,Spain,EMEA
+2684.43,2004,1,2,Classic Cars,Switzerland,EMEA
+1958.88,2004,2,4,Classic Cars,Finland,EMEA
+4910.57,2004,2,6,Classic Cars,UK,EMEA
+4468.4,2004,3,7,Classic Cars,Italy,EMEA
+3127.88,2004,3,8,Classic Cars,Singapore,Japan
+2675.13,2004,3,8,Classic Cars,Switzerland,EMEA
+2807.61,2003,4,10,Classic Cars,Germany,EMEA
+2504.75,2004,4,10,Classic Cars,Germany,EMEA
+4136.0,2004,4,11,Classic Cars,Austria,EMEA
+4068.7,2005,1,1,Classic Cars,Finland,EMEA
+5182.0,2005,1,2,Classic Cars,Finland,EMEA
+5243.79,2005,1,3,Classic Cars,Sweden,EMEA
+9048.16,2005,2,4,Classic Cars,France,EMEA
+3832.64,2005,2,5,Classic Cars,Austria,EMEA
+3920.0,2003,1,1,Trucks and Buses,Norway,EMEA
+3857.0,2003,2,5,Trucks and Buses,Spain,EMEA
+4641.0,2003,3,9,Trucks and Buses,Singapore,Japan
+3570.12,2003,4,10,Trucks and Buses,Austria,EMEA
+4480.32,2003,4,11,Trucks and Buses,Australia,APAC
+1960.14,2003,4,11,Trucks and Buses,France,EMEA
+5453.0,2004,2,6,Trucks and Buses,Japan,Japan
+4164.12,2004,3,7,Trucks and Buses,Australia,APAC
+2800.08,2004,3,8,Trucks and Buses,Italy,EMEA
+4687.94,2004,3,9,Trucks and Buses,Sweden,EMEA
+4508.0,2004,4,10,Trucks and Buses,France,EMEA
+2083.2,2004,4,11,Trucks and Buses,Australia,APAC
+3911.49,2005,1,1,Trucks and Buses,Australia,APAC
+2467.9,2005,1,3,Trucks and Buses,Australia,APAC
+7182.0,2005,2,5,Trucks and Buses,Spain,EMEA
+5004.8,2003,2,5,Classic Cars,France,EMEA
+3644.75,2003,3,7,Classic Cars,France,EMEA
+2702.04,2003,3,9,Classic Cars,Australia,APAC
+3764.88,2003,4,10,Classic Cars,Denmark,EMEA
+5418.16,2003,4,11,Classic Cars,Norway,EMEA
+4186.73,2004,1,1,Classic Cars,Spain,EMEA
+4529.28,2004,1,2,Classic Cars,Switzerland,EMEA
+5628.89,2004,2,4,Classic Cars,Japan,Japan
+3054.48,2004,2,6,Classic Cars,UK,EMEA
+2526.51,2004,3,7,Classic Cars,Italy,EMEA
+6499.32,2004,3,8,Classic Cars,Switzerland,EMEA
+5917.78,2003,4,10,Classic Cars,Norway,EMEA
+6231.91,2004,4,10,Classic Cars,Germany,EMEA
+6454.4,2004,4,11,Classic Cars,Australia,APAC
+4196.8,2004,4,12,Classic Cars,France,EMEA
+5895.05,2005,1,2,Classic Cars,Finland,EMEA
+8374.69,2005,2,4,Classic Cars,Denmark,EMEA
+4464.24,2005,2,5,Classic Cars,Austria,EMEA
+3254.72,2003,2,5,Vintage Cars,Australia,APAC
+3184.94,2003,3,7,Vintage Cars,Australia,APAC
+5036.16,2003,4,11,Vintage Cars,Italy,EMEA
+3106.88,2003,4,11,Vintage Cars,Australia,APAC
+3735.72,2003,4,12,Vintage Cars,Spain,EMEA
+2953.75,2004,1,3,Vintage Cars,France,EMEA
+4684.8,2004,2,4,Vintage Cars,Spain,EMEA
+3248.7,2004,2,6,Vintage Cars,Denmark,EMEA
+5239.5,2004,3,8,Vintage Cars,Italy,EMEA
+4567.98,2004,3,9,Vintage Cars,Norway,EMEA
+3535.35,2004,4,10,Vintage Cars,France,EMEA
+4375.98,2004,4,11,Vintage Cars,UK,EMEA
+2509.0,2004,4,12,Vintage Cars,France,EMEA
+2515.32,2005,1,2,Vintage Cars,Spain,EMEA
+5548.9,2005,1,3,Vintage Cars,Australia,APAC
+2309.58,2003,2,5,Vintage Cars,Spain,EMEA
+2113.37,2003,3,7,Vintage Cars,Australia,APAC
+2122.08,2003,4,11,Vintage Cars,Italy,EMEA
+2455.02,2003,4,11,Vintage Cars,Australia,APAC
+3053.28,2003,4,12,Vintage Cars,Spain,EMEA
+1504.12,2004,1,3,Vintage Cars,France,EMEA
+1164.4,2004,2,4,Vintage Cars,Spain,EMEA
+1500.75,2004,2,6,Vintage Cars,Denmark,EMEA
+1557.36,2004,3,8,Vintage Cars,Italy,EMEA
+1345.68,2004,3,9,Vintage Cars,Norway,EMEA
+1795.24,2004,4,10,Vintage Cars,France,EMEA
+2427.03,2004,4,11,Vintage Cars,UK,EMEA
+1237.95,2004,4,11,Vintage Cars,Australia,APAC
+1593.02,2004,4,12,Vintage Cars,France,EMEA
+4998.0,2005,1,3,Vintage Cars,Australia,APAC
+5433.08,2003,1,3,Classic Cars,UK,EMEA
+3073.72,2003,2,5,Classic Cars,France,EMEA
+4380.2,2003,3,7,Classic Cars,France,EMEA
+5848.68,2003,3,9,Classic Cars,Australia,APAC
+6153.73,2003,4,10,Classic Cars,Denmark,EMEA
+5435.64,2003,4,11,Classic Cars,Norway,EMEA
+4492.36,2004,1,1,Classic Cars,Spain,EMEA
+2508.66,2004,2,4,Classic Cars,France,EMEA
+3374.88,2004,2,6,Classic Cars,UK,EMEA
+5196.6,2004,3,7,Classic Cars,Italy,EMEA
+2936.8,2004,3,9,Classic Cars,Singapore,APAC
+3424.64,2003,4,10,Classic Cars,Norway,EMEA
+2923.2,2004,4,10,Classic Cars,Spain,EMEA
+5848.92,2004,4,11,Classic Cars,France,EMEA
+1449.76,2005,1,2,Classic Cars,Spain,EMEA
+5202.94,2005,2,5,Classic Cars,Austria,EMEA
+5279.4,2003,1,2,Planes,Italy,EMEA
+6916.12,2003,2,4,Planes,Austria,EMEA
+6531.44,2003,4,10,Planes,Finland,EMEA
+5763.72,2003,4,10,Planes,Sweden,EMEA
+6490.68,2003,4,11,Planes,France,EMEA
+6004.8,2003,4,11,Planes,UK,EMEA
+7483.98,2003,4,11,Planes,Philippines,Japan
+5719.5,2004,1,1,Planes,Japan,Japan
+6567.96,2004,2,6,Planes,Spain,EMEA
+5747.85,2004,3,8,Planes,Norway,EMEA
+5676.84,2004,3,9,Planes,Germany,EMEA
+3704.13,2004,4,11,Planes,UK,EMEA
+2804.75,2004,4,11,Planes,Denmark,EMEA
+5624.79,2004,4,11,Planes,Belgium,EMEA
+3881.28,2004,4,12,Planes,UK,EMEA
+1611.4,2005,1,1,Planes,Finland,EMEA
+1364.25,2005,1,3,Planes,Spain,EMEA
+4215.09,2005,1,3,Planes,France,EMEA
+4352.16,2005,2,5,Planes,Italy,EMEA
+6069.0,2003,1,3,Vintage Cars,UK,EMEA
+3508.8,2003,4,11,Vintage Cars,Italy,EMEA
+3141.6,2003,4,11,Vintage Cars,Australia,APAC
+5967.0,2004,1,1,Vintage Cars,Spain,EMEA
+3712.8,2004,1,3,Vintage Cars,France,EMEA
+7597.3,2004,2,4,Vintage Cars,France,EMEA
+3668.6,2004,3,8,Vintage Cars,Italy,EMEA
+5875.2,2004,3,9,Vintage Cars,Singapore,APAC
+7310.0,2003,4,10,Vintage Cars,UK,EMEA
+7650.0,2004,4,11,Vintage Cars,France,EMEA
+5399.55,2005,1,2,Vintage Cars,Spain,EMEA
+5283.6,2005,2,5,Vintage Cars,Australia,APAC
+3130.82,2003,1,3,Classic Cars,Philippines,Japan
+3112.34,2003,2,5,Classic Cars,France,EMEA
+1262.8,2003,4,11,Classic Cars,Austria,EMEA
+1626.24,2003,4,11,Classic Cars,Norway,EMEA
+3846.15,2003,4,12,Classic Cars,Spain,EMEA
+1339.8,2004,1,1,Classic Cars,Spain,EMEA
+3039.96,2004,1,2,Classic Cars,Switzerland,EMEA
+3400.32,2004,2,4,Classic Cars,Finland,EMEA
+1930.39,2004,2,6,Classic Cars,UK,EMEA
+2464.77,2004,3,7,Classic Cars,Italy,EMEA
+3625.16,2004,3,8,Classic Cars,Switzerland,EMEA
+3788.4,2003,4,10,Classic Cars,Germany,EMEA
+1832.6,2004,4,10,Classic Cars,Germany,EMEA
+3599.75,2004,4,11,Classic Cars,Australia,APAC
+3686.54,2005,1,1,Classic Cars,Finland,EMEA
+2100.56,2005,1,2,Classic Cars,Finland,EMEA
+3881.78,2005,1,3,Classic Cars,Sweden,EMEA
+4509.12,2005,2,4,Classic Cars,France,EMEA
+3273.27,2005,2,5,Classic Cars,Austria,EMEA
+4100.99,2003,2,5,Classic Cars,France,EMEA
+5274.72,2003,3,7,Classic Cars,France,EMEA
+4232.0,2003,3,9,Classic Cars,Australia,APAC
+6145.44,2003,4,10,Classic Cars,Denmark,EMEA
+3286.08,2003,4,11,Classic Cars,Norway,EMEA
+4840.87,2004,1,1,Classic Cars,Spain,EMEA
+5526.32,2004,2,4,Classic Cars,Japan,Japan
+4459.62,2004,2,6,Classic Cars,UK,EMEA
+6203.4,2004,3,7,Classic Cars,Italy,EMEA
+3516.48,2004,3,8,Classic Cars,Switzerland,EMEA
+7488.04,2003,4,10,Classic Cars,Norway,EMEA
+3448.08,2004,4,10,Classic Cars,Germany,EMEA
+3160.74,2004,4,11,Classic Cars,Australia,APAC
+1746.63,2004,4,12,Classic Cars,France,EMEA
+4207.84,2005,1,1,Classic Cars,Belgium,EMEA
+4352.76,2005,1,2,Classic Cars,Finland,EMEA
+7169.28,2005,2,4,Classic Cars,Denmark,EMEA
+4594.76,2005,2,5,Classic Cars,Austria,EMEA
+3457.92,2003,1,1,Classic Cars,Spain,EMEA
+5938.53,2003,3,8,Classic Cars,Finland,EMEA
+7110.91,2003,3,9,Classic Cars,Finland,EMEA
+5032.95,2003,4,10,Classic Cars,Singapore,Japan
+3667.6,2003,4,11,Classic Cars,Italy,EMEA
+7381.16,2003,4,11,Classic Cars,Spain,EMEA
+7300.51,2004,1,3,Classic Cars,Germany,EMEA
+6549.2,2004,2,5,Classic Cars,Spain,EMEA
+5697.9,2004,2,6,Classic Cars,Singapore,APAC
+5776.26,2004,4,10,Classic Cars,Denmark,EMEA
+7460.74,2004,4,11,Classic Cars,France,EMEA
+2428.0,2004,4,12,Classic Cars,Spain,EMEA
+6712.93,2005,2,5,Classic Cars,Spain,EMEA
+5318.04,2005,2,5,Classic Cars,France,EMEA
+1608.0,2003,1,3,Vintage Cars,UK,EMEA
+1495.26,2003,4,11,Vintage Cars,Italy,EMEA
+2491.86,2003,4,11,Vintage Cars,Australia,APAC
+1322.16,2004,1,1,Vintage Cars,Spain,EMEA
+1423.8,2004,1,3,Vintage Cars,France,EMEA
+2397.45,2004,2,4,Vintage Cars,France,EMEA
+1574.0,2004,3,8,Vintage Cars,Italy,EMEA
+1729.0,2004,3,9,Vintage Cars,Singapore,APAC
+2255.84,2004,4,10,Vintage Cars,Spain,EMEA
+3201.5,2004,4,11,Vintage Cars,UK,EMEA
+2276.4,2004,4,11,Vintage Cars,France,EMEA
+1331.1,2005,1,2,Vintage Cars,Spain,EMEA
+2288.52,2005,2,5,Vintage Cars,Australia,APAC
+3772.61,2003,1,1,Trucks and Buses,Spain,EMEA
+4164.42,2003,2,4,Trucks and Buses,France,EMEA
+6287.66,2003,3,8,Trucks and Buses,Finland,EMEA
+5412.54,2003,3,9,Trucks and Buses,Finland,EMEA
+5984.14,2003,4,10,Trucks and Buses,Singapore,Japan
+5891.04,2003,4,11,Trucks and Buses,UK,EMEA
+5984.14,2003,4,11,Trucks and Buses,Spain,EMEA
+2159.96,2004,2,5,Trucks and Buses,Spain,EMEA
+3379.94,2004,2,6,Trucks and Buses,Singapore,APAC
+5814.86,2004,4,11,Trucks and Buses,Sweden,EMEA
+728.4,2004,4,12,Trucks and Buses,Spain,EMEA
+3949.0,2005,1,1,Trucks and Buses,Australia,APAC
+3843.99,2005,1,2,Trucks and Buses,Spain,EMEA
+5498.08,2005,2,5,Trucks and Buses,Spain,EMEA
+3777.58,2005,2,5,Trucks and Buses,France,EMEA
+3782.0,2003,1,1,Vintage Cars,Germany,EMEA
+3859.68,2003,1,3,Vintage Cars,UK,EMEA
+4492.83,2003,4,11,Vintage Cars,Italy,EMEA
+4642.88,2003,4,11,Vintage Cars,Australia,APAC
+3604.23,2004,1,1,Vintage Cars,Spain,EMEA
+7017.76,2004,1,3,Vintage Cars,France,EMEA
+4750.8,2004,3,8,Vintage Cars,Italy,EMEA
+3822.92,2004,3,9,Vintage Cars,Singapore,APAC
+2440.8,2004,4,10,Vintage Cars,France,EMEA
+2264.15,2004,4,11,Vintage Cars,UK,EMEA
+3928.2,2004,4,11,Vintage Cars,France,EMEA
+3630.22,2004,4,12,Vintage Cars,France,EMEA
+4931.6,2005,1,2,Vintage Cars,Spain,EMEA
+785.64,2005,2,4,Vintage Cars,Singapore,APAC
+4977.0,2005,2,5,Vintage Cars,Australia,APAC
+1189.98,2003,1,1,Trucks and Buses,Norway,EMEA
+3090.15,2003,2,4,Trucks and Buses,France,EMEA
+2795.86,2003,2,5,Trucks and Buses,Spain,EMEA
+2701.92,2003,3,9,Trucks and Buses,Finland,EMEA
+2204.1,2003,4,10,Trucks and Buses,Singapore,Japan
+2840.48,2003,4,11,Trucks and Buses,UK,EMEA
+2647.04,2003,4,11,Trucks and Buses,Spain,EMEA
+3172.05,2003,4,11,Trucks and Buses,France,EMEA
+2148.3,2004,1,2,Trucks and Buses,Singapore,APAC
+1859.7,2004,2,5,Trucks and Buses,Spain,EMEA
+1476.6,2004,2,6,Trucks and Buses,Singapore,APAC
+1500.98,2004,3,9,Trucks and Buses,Sweden,EMEA
+2086.92,2004,4,11,Trucks and Buses,Sweden,EMEA
+6834.5,2004,4,11,Trucks and Buses,Australia,APAC
+2130.92,2005,1,1,Trucks and Buses,Australia,APAC
+1694.0,2005,1,3,Trucks and Buses,Australia,APAC
+2913.53,2005,2,5,Trucks and Buses,Spain,EMEA
+935.18,2005,2,5,Trucks and Buses,France,EMEA
+3073.26,2003,1,2,Planes,Italy,EMEA
+2082.49,2003,2,4,Planes,Australia,APAC
+3394.23,2003,2,6,Planes,Spain,EMEA
+3844.0,2004,1,1,Planes,Japan,Japan
+4724.91,2004,1,2,Planes,Australia,APAC
+3163.65,2004,3,7,Planes,France,EMEA
+2226.11,2004,3,8,Planes,Norway,EMEA
+2069.75,2004,3,9,Planes,Ireland,EMEA
+4781.7,2004,4,11,Planes,Denmark,EMEA
+2810.7,2004,4,11,Planes,Japan,Japan
+2909.34,2005,1,2,Planes,Australia,APAC
+1570.17,2005,1,3,Planes,Spain,EMEA
+2613.92,2005,1,3,Planes,France,EMEA
+1482.6,2005,2,5,Planes,Italy,EMEA
+2674.9,2003,2,4,Motorcycles,Australia,APAC
+1853.4,2003,3,7,Motorcycles,France,EMEA
+1605.0,2003,4,11,Motorcycles,France,EMEA
+2093.44,2003,4,11,Motorcycles,Norway,EMEA
+1986.8,2004,1,1,Motorcycles,Japan,Japan
+1695.96,2004,1,2,Motorcycles,Australia,APAC
+2353.2,2004,3,7,Motorcycles,France,EMEA
+1550.72,2004,3,9,Motorcycles,France,EMEA
+1864.8,2004,4,11,Motorcycles,Japan,Japan
+1172.6,2005,1,2,Motorcycles,Australia,APAC
+6981.0,2005,1,3,Motorcycles,Sweden,EMEA
+3064.6,2005,2,4,Motorcycles,France,EMEA
+2202.48,2005,2,5,Motorcycles,Spain,EMEA
+3773.38,2003,1,1,Vintage Cars,Germany,EMEA
+5074.39,2003,1,3,Vintage Cars,UK,EMEA
+6483.46,2003,2,5,Vintage Cars,Australia,APAC
+7956.46,2003,3,7,Vintage Cars,Australia,APAC
+3452.68,2003,4,11,Vintage Cars,Italy,EMEA
+3675.32,2003,4,11,Vintage Cars,Australia,APAC
+7492.4,2003,4,12,Vintage Cars,Spain,EMEA
+9534.5,2004,1,1,Vintage Cars,Spain,EMEA
+5579.02,2004,1,3,Vintage Cars,France,EMEA
+5950.34,2004,2,4,Vintage Cars,Spain,EMEA
+3726.0,2004,2,6,Vintage Cars,France,EMEA
+4455.0,2004,3,8,Vintage Cars,Italy,EMEA
+8272.34,2004,3,9,Vintage Cars,Norway,EMEA
+3577.6,2004,4,10,Vintage Cars,France,EMEA
+1264.08,2004,4,11,Vintage Cars,UK,EMEA
+4815.3,2004,4,11,Vintage Cars,Australia,APAC
+4462.2,2004,4,12,Vintage Cars,France,EMEA
+990.78,2005,1,2,Vintage Cars,Spain,EMEA
+5161.2,2003,2,5,Classic Cars,France,EMEA
+4346.76,2003,3,7,Classic Cars,France,EMEA
+3528.36,2003,3,9,Classic Cars,Australia,APAC
+3187.8,2003,4,10,Classic Cars,Denmark,EMEA
+3884.76,2003,4,11,Classic Cars,Norway,EMEA
+4910.4,2004,1,1,Classic Cars,Spain,EMEA
+6853.44,2004,2,4,Classic Cars,France,EMEA
+5177.04,2004,2,6,Classic Cars,UK,EMEA
+2824.8,2004,3,7,Classic Cars,Italy,EMEA
+5052.96,2004,3,8,Classic Cars,Switzerland,EMEA
+3223.44,2003,4,10,Classic Cars,Norway,EMEA
+5278.68,2004,4,10,Classic Cars,Spain,EMEA
+1308.0,2004,4,11,Classic Cars,France,EMEA
+6144.6,2005,1,1,Classic Cars,Belgium,EMEA
+5127.2,2005,1,2,Classic Cars,Spain,EMEA
+7695.6,2005,2,5,Classic Cars,Austria,EMEA
+2242.89,2003,1,1,Vintage Cars,Norway,EMEA
+2539.89,2003,1,3,Vintage Cars,Sweden,EMEA
+2795.27,2003,2,5,Vintage Cars,Spain,EMEA
+5545.76,2003,3,7,Vintage Cars,Australia,APAC
+4285.46,2003,3,9,Vintage Cars,Singapore,Japan
+5592.22,2003,4,11,Vintage Cars,Australia,APAC
+2609.88,2003,4,11,Vintage Cars,Australia,APAC
+3525.6,2004,2,4,Vintage Cars,Spain,EMEA
+2983.44,2004,3,7,Vintage Cars,Australia,APAC
+5126.24,2004,3,8,Vintage Cars,Italy,EMEA
+5713.79,2004,3,9,Vintage Cars,Sweden,EMEA
+4613.8,2004,4,10,Vintage Cars,France,EMEA
+4814.4,2004,4,11,Vintage Cars,Australia,APAC
+1448.0,2005,1,3,Vintage Cars,Australia,APAC
+881.4,2005,2,5,Vintage Cars,Belgium,EMEA
+2011.1,2003,1,1,Vintage Cars,Norway,EMEA
+3390.2,2003,2,5,Vintage Cars,Spain,EMEA
+1424.0,2003,3,7,Vintage Cars,Australia,APAC
+1499.1,2003,3,9,Vintage Cars,Singapore,Japan
+1504.16,2003,4,11,Vintage Cars,Italy,EMEA
+1244.16,2003,4,11,Vintage Cars,Australia,APAC
+1394.16,2004,2,4,Vintage Cars,Spain,EMEA
+2018.56,2004,3,7,Vintage Cars,Austria,EMEA
+2954.53,2004,3,8,Vintage Cars,Italy,EMEA
+1871.83,2004,3,9,Vintage Cars,Sweden,EMEA
+1559.04,2004,4,10,Vintage Cars,France,EMEA
+2979.08,2004,4,11,Vintage Cars,UK,EMEA
+2208.64,2004,4,11,Vintage Cars,Australia,APAC
+2218.52,2005,1,3,Vintage Cars,Austria,EMEA
+1665.32,2005,2,5,Vintage Cars,Belgium,EMEA
+3421.04,2003,1,2,Ships,Italy,EMEA
+1878.66,2003,2,4,Ships,Austria,EMEA
+3482.16,2003,4,10,Ships,Finland,EMEA
+3363.52,2003,4,10,Ships,Sweden,EMEA
+3350.52,2003,4,11,Ships,France,EMEA
+2862.72,2003,4,11,Ships,UK,EMEA
+4036.04,2003,4,11,Ships,Spain,EMEA
+2697.6,2004,2,6,Ships,Spain,EMEA
+3334.04,2004,3,7,Ships,Belgium,EMEA
+2023.14,2004,3,9,Ships,Germany,EMEA
+1987.02,2004,4,11,Ships,UK,EMEA
+1146.5,2004,4,11,Ships,Denmark,EMEA
+2312.24,2004,4,11,Ships,Belgium,EMEA
+2793.71,2004,4,12,Ships,Spain,EMEA
+1908.28,2005,1,1,Ships,Finland,EMEA
+3441.37,2005,1,3,Ships,Spain,EMEA
+2023.28,2005,1,3,Ships,France,EMEA
+2539.5,2003,1,1,Vintage Cars,Norway,EMEA
+2921.7,2003,2,5,Vintage Cars,Spain,EMEA
+1801.2,2003,3,7,Vintage Cars,Australia,APAC
+2804.36,2003,3,9,Vintage Cars,Singapore,Japan
+2759.31,2003,4,11,Vintage Cars,Italy,EMEA
+2769.89,2003,4,11,Vintage Cars,Australia,APAC
+3340.51,2004,2,4,Vintage Cars,Spain,EMEA
+4775.08,2004,3,7,Vintage Cars,Australia,APAC
+3006.43,2004,3,8,Vintage Cars,Italy,EMEA
+2866.26,2004,3,9,Vintage Cars,Sweden,EMEA
+2232.62,2004,4,10,Vintage Cars,France,EMEA
+1592.0,2004,4,11,Vintage Cars,UK,EMEA
+4948.2,2004,4,11,Vintage Cars,Australia,APAC
+2520.68,2005,1,3,Vintage Cars,Austria,EMEA
+1781.22,2005,2,5,Vintage Cars,Belgium,EMEA
+3065.04,2003,1,2,Vintage Cars,Denmark,EMEA
+3551.34,2003,2,4,Vintage Cars,Singapore,Japan
+5544.02,2003,2,6,Vintage Cars,Spain,EMEA
+3641.57,2003,3,9,Vintage Cars,Spain,EMEA
+3675.63,2003,4,11,Vintage Cars,Spain,EMEA
+2622.48,2004,1,1,Vintage Cars,France,EMEA
+4417.38,2004,1,2,Vintage Cars,Belgium,EMEA
+3606.02,2004,1,3,Vintage Cars,UK,EMEA
+5026.4,2004,3,7,Vintage Cars,Belgium,EMEA
+2819.28,2004,3,9,Vintage Cars,Italy,EMEA
+3759.04,2004,4,10,Vintage Cars,UK,EMEA
+2731.8,2004,4,10,Vintage Cars,Denmark,EMEA
+1658.88,2004,4,11,Vintage Cars,Norway,EMEA
+5778.24,2004,4,11,Vintage Cars,France,EMEA
+5191.12,2004,4,12,Vintage Cars,Spain,EMEA
+3862.88,2005,1,1,Vintage Cars,Japan,Japan
+1476.48,2005,1,2,Vintage Cars,Spain,EMEA
+4556.99,2003,1,1,Classic Cars,Spain,EMEA
+8209.44,2003,2,4,Classic Cars,France,EMEA
+3598.5,2003,2,5,Classic Cars,France,EMEA
+8331.61,2003,3,7,Classic Cars,France,EMEA
+4836.5,2003,3,8,Classic Cars,Finland,EMEA
+5418.88,2003,3,9,Classic Cars,Australia,APAC
+3734.01,2003,3,9,Classic Cars,Finland,EMEA
+8754.69,2003,4,10,Classic Cars,Singapore,Japan
+4419.89,2003,4,11,Classic Cars,UK,EMEA
+6324.75,2003,4,11,Classic Cars,Norway,EMEA
+4409.72,2003,4,11,Classic Cars,Spain,EMEA
+8291.04,2003,4,12,Classic Cars,Spain,EMEA
+5554.4,2004,1,1,Classic Cars,Spain,EMEA
+6407.86,2004,1,2,Classic Cars,Switzerland,EMEA
+7083.37,2004,2,4,Classic Cars,Finland,EMEA
+7132.68,2004,2,5,Classic Cars,Spain,EMEA
+6773.6,2004,2,6,Classic Cars,UK,EMEA
+3657.69,2004,2,6,Classic Cars,Singapore,APAC
+4812.55,2004,3,7,Classic Cars,Italy,EMEA
+5852.52,2004,3,8,Classic Cars,Switzerland,EMEA
+4011.66,2003,4,10,Classic Cars,Norway,EMEA
+8940.96,2004,4,10,Classic Cars,Germany,EMEA
+2878.8,2004,4,11,Classic Cars,Sweden,EMEA
+5029.5,2004,4,11,Classic Cars,Australia,APAC
+2991.68,2004,4,12,Classic Cars,Spain,EMEA
+6275.72,2005,1,1,Classic Cars,Belgium,EMEA
+1534.95,2005,1,1,Classic Cars,Australia,APAC
+7264.53,2005,1,2,Classic Cars,Finland,EMEA
+6869.05,2005,1,2,Classic Cars,Spain,EMEA
+3353.02,2005,1,3,Classic Cars,Spain,EMEA
+8289.05,2005,2,4,Classic Cars,France,EMEA
+11887.8,2005,2,5,Classic Cars,Spain,EMEA
+5926.9,2005,2,5,Classic Cars,Austria,EMEA
+3793.16,2005,2,5,Classic Cars,France,EMEA
+4330.1,2003,1,2,Trains,Denmark,EMEA
+2011.8,2003,2,4,Trains,Singapore,Japan
+4837.18,2003,2,6,Trains,Spain,EMEA
+2573.46,2003,3,9,Trains,Spain,EMEA
+5344.5,2003,4,10,Trains,Singapore,Japan
+3070.52,2003,4,11,Trains,Spain,EMEA
+5614.56,2004,1,1,Trains,France,EMEA
+1855.41,2004,1,2,Trains,Belgium,EMEA
+4598.4,2004,1,3,Trains,UK,EMEA
+5450.59,2004,3,7,Trains,Belgium,EMEA
+2418.24,2004,3,9,Trains,Italy,EMEA
+3670.4,2004,4,10,Trains,UK,EMEA
+2481.7,2004,4,10,Trains,Denmark,EMEA
+3807.68,2004,4,11,Trains,Sweden,EMEA
+2230.41,2004,4,11,Trains,France,EMEA
+3814.64,2004,4,12,Trains,Spain,EMEA
+2117.75,2005,1,1,Trains,Japan,Japan
+3340.48,2005,1,2,Trains,Spain,EMEA
+1777.1,2003,1,3,Classic Cars,Philippines,Japan
+1536.57,2003,2,5,Classic Cars,France,EMEA
+2264.32,2003,4,11,Classic Cars,Australia,APAC
+2484.6,2003,4,11,Classic Cars,Norway,EMEA
+3415.68,2003,4,11,Classic Cars,Germany,EMEA
+2839.32,2003,4,12,Classic Cars,Spain,EMEA
+2730.0,2004,1,1,Classic Cars,France,EMEA
+3540.53,2004,1,2,Classic Cars,Switzerland,EMEA
+2999.97,2004,2,4,Classic Cars,Denmark,EMEA
+1527.8,2004,2,5,Classic Cars,France,EMEA
+3907.8,2004,3,7,Classic Cars,Australia,APAC
+3042.68,2004,3,8,Classic Cars,Switzerland,EMEA
+3861.2,2003,4,10,Classic Cars,Germany,EMEA
+2171.07,2004,4,10,Classic Cars,Germany,EMEA
+1668.5,2004,4,11,Classic Cars,Australia,APAC
+2773.8,2005,1,1,Classic Cars,Finland,EMEA
+2464.0,2005,1,2,Classic Cars,Spain,EMEA
+4791.82,2003,1,1,Vintage Cars,Norway,EMEA
+3128.92,2003,2,5,Vintage Cars,Spain,EMEA
+3095.4,2003,3,7,Vintage Cars,Australia,APAC
+2761.96,2003,4,11,Vintage Cars,Italy,EMEA
+2539.84,2003,4,11,Vintage Cars,Australia,APAC
+3666.96,2004,1,3,Vintage Cars,France,EMEA
+3035.88,2004,2,4,Vintage Cars,Spain,EMEA
+3474.46,2004,3,8,Vintage Cars,Italy,EMEA
+3958.46,2004,4,10,Vintage Cars,France,EMEA
+3011.91,2004,4,11,Vintage Cars,Germany,EMEA
+2656.94,2004,4,11,Vintage Cars,Australia,APAC
+4035.96,2005,1,3,Vintage Cars,Austria,EMEA
+1875.09,2005,2,5,Vintage Cars,Belgium,EMEA
+4049.56,2003,1,3,Classic Cars,Philippines,Japan
+2469.39,2003,2,5,Classic Cars,France,EMEA
+4444.92,2003,4,11,Classic Cars,Australia,APAC
+3395.48,2003,4,11,Classic Cars,Norway,EMEA
+3414.58,2003,4,11,Classic Cars,Germany,EMEA
+5127.04,2003,4,12,Classic Cars,Spain,EMEA
+3745.28,2004,1,1,Classic Cars,France,EMEA
+4564.08,2004,1,2,Classic Cars,Switzerland,EMEA
+6554.24,2004,2,4,Classic Cars,Denmark,EMEA
+6749.83,2004,2,5,Classic Cars,France,EMEA
+8427.02,2004,3,7,Classic Cars,Australia,APAC
+6761.6,2004,3,8,Classic Cars,Switzerland,EMEA
+3786.49,2003,4,10,Classic Cars,Germany,EMEA
+6266.12,2004,4,10,Classic Cars,Germany,EMEA
+3491.0,2004,4,11,Classic Cars,Sweden,EMEA
+4405.22,2004,4,11,Classic Cars,Philippines,Japan
+6548.3,2004,4,11,Classic Cars,Australia,APAC
+3177.91,2004,4,12,Classic Cars,Spain,EMEA
+4142.64,2005,1,1,Classic Cars,Finland,EMEA
+4149.07,2005,1,2,Classic Cars,Spain,EMEA
+5331.88,2003,2,5,Classic Cars,France,EMEA
+5124.3,2003,3,7,Classic Cars,France,EMEA
+3639.44,2003,3,9,Classic Cars,Australia,APAC
+5544.0,2003,4,10,Classic Cars,Denmark,EMEA
+5785.26,2003,4,11,Classic Cars,Norway,EMEA
+6357.6,2004,1,1,Classic Cars,Spain,EMEA
+5959.22,2004,2,4,Classic Cars,Japan,Japan
+4029.38,2004,2,6,Classic Cars,UK,EMEA
+5035.14,2004,3,7,Classic Cars,Italy,EMEA
+4310.55,2004,3,8,Classic Cars,Switzerland,EMEA
+6446.7,2003,4,10,Classic Cars,Norway,EMEA
+3616.64,2004,4,10,Classic Cars,Spain,EMEA
+3734.72,2004,4,11,Classic Cars,France,EMEA
+2266.56,2005,1,2,Classic Cars,Spain,EMEA
+10468.9,2005,2,4,Classic Cars,Denmark,EMEA
+5589.14,2005,2,5,Classic Cars,Austria,EMEA
+2914.11,2003,1,3,Motorcycles,Philippines,Japan
+1740.9,2003,2,5,Motorcycles,France,EMEA
+2598.82,2003,4,11,Motorcycles,Australia,APAC
+1057.56,2003,4,11,Motorcycles,France,EMEA
+3127.82,2003,4,11,Motorcycles,Germany,EMEA
+2488.14,2004,1,1,Motorcycles,France,EMEA
+2220.72,2004,1,2,Motorcycles,France,EMEA
+1638.04,2004,2,5,Motorcycles,France,EMEA
+2173.6,2004,3,8,Motorcycles,France,EMEA
+2182.05,2004,3,9,Motorcycles,Finland,EMEA
+2819.88,2004,4,10,Motorcycles,Germany,EMEA
+2019.27,2004,4,11,Motorcycles,Philippines,Japan
+1454.7,2004,4,11,Motorcycles,Australia,APAC
+1657.57,2004,4,12,Motorcycles,Spain,EMEA
+2851.84,2005,1,1,Motorcycles,Finland,EMEA
+4609.64,2005,1,2,Motorcycles,Spain,EMEA
+1879.92,2005,2,4,Motorcycles,UK,EMEA
+4774.86,2003,1,2,Vintage Cars,Italy,EMEA
+2687.04,2003,2,4,Vintage Cars,Austria,EMEA
+3622.97,2003,4,10,Vintage Cars,Finland,EMEA
+3599.58,2003,4,10,Vintage Cars,Sweden,EMEA
+5386.56,2003,4,11,Vintage Cars,France,EMEA
+4918.78,2003,4,11,Vintage Cars,UK,EMEA
+2538.8,2003,4,11,Vintage Cars,Spain,EMEA
+4103.46,2004,2,6,Vintage Cars,Spain,EMEA
+4287.5,2004,3,7,Vintage Cars,Belgium,EMEA
+1863.4,2004,3,9,Vintage Cars,Germany,EMEA
+4080.07,2004,4,11,Vintage Cars,UK,EMEA
+3815.48,2004,4,11,Vintage Cars,Italy,EMEA
+5526.45,2004,4,11,Vintage Cars,Belgium,EMEA
+3374.6,2004,4,12,Vintage Cars,UK,EMEA
+3024.5,2005,1,1,Vintage Cars,Finland,EMEA
+1266.1,2005,1,3,Vintage Cars,Spain,EMEA
+4811.85,2005,1,3,Vintage Cars,France,EMEA
+6209.25,2005,2,5,Vintage Cars,Australia,APAC
+5348.5,2003,1,1,Classic Cars,Spain,EMEA
+2780.58,2003,2,4,Classic Cars,Singapore,Japan
+4524.1,2003,3,9,Classic Cars,Australia,APAC
+3337.6,2003,4,10,Classic Cars,Singapore,Japan
+5532.12,2003,4,11,Classic Cars,Italy,EMEA
+8258.0,2004,1,2,Classic Cars,Ireland,EMEA
+7238.28,2004,1,3,Classic Cars,Germany,EMEA
+6756.0,2004,2,5,Classic Cars,Finland,EMEA
+3600.65,2004,4,10,Classic Cars,UK,EMEA
+4206.74,2004,4,10,Classic Cars,Denmark,EMEA
+2528.25,2004,4,12,Classic Cars,Spain,EMEA
+7031.52,2005,1,1,Classic Cars,Japan,Japan
+5340.9,2005,1,2,Classic Cars,Spain,EMEA
+6376.58,2005,1,3,Classic Cars,Spain,EMEA
+2499.56,2003,1,3,Vintage Cars,UK,EMEA
+3598.22,2003,3,9,Vintage Cars,Australia,APAC
+1584.66,2003,4,11,Vintage Cars,Italy,EMEA
+2341.2,2003,4,11,Vintage Cars,Australia,APAC
+3602.02,2004,1,1,Vintage Cars,UK,EMEA
+3566.94,2004,1,3,Vintage Cars,France,EMEA
+3787.98,2004,2,4,Vintage Cars,France,EMEA
+3704.05,2004,3,8,Vintage Cars,Italy,EMEA
+2834.65,2004,3,9,Vintage Cars,Singapore,APAC
+3392.26,2003,4,10,Vintage Cars,UK,EMEA
+3358.31,2004,4,10,Vintage Cars,Spain,EMEA
+7310.0,2004,4,11,Vintage Cars,UK,EMEA
+2203.11,2004,4,11,Vintage Cars,France,EMEA
+3376.64,2005,1,2,Vintage Cars,Spain,EMEA
+6134.7,2005,2,5,Vintage Cars,Australia,APAC
+3382.5,2003,1,2,Vintage Cars,Denmark,EMEA
+2240.66,2003,2,4,Vintage Cars,Singapore,Japan
+3962.88,2003,2,6,Vintage Cars,Spain,EMEA
+1834.36,2003,3,9,Vintage Cars,Spain,EMEA
+2611.0,2003,4,11,Vintage Cars,Spain,EMEA
+5090.5,2003,4,11,Vintage Cars,Spain,EMEA
+3949.65,2004,1,1,Vintage Cars,France,EMEA
+3491.67,2004,1,2,Vintage Cars,Belgium,EMEA
+2059.19,2004,1,3,Vintage Cars,UK,EMEA
+2345.97,2004,3,7,Vintage Cars,Belgium,EMEA
+4946.06,2004,3,9,Vintage Cars,Italy,EMEA
+3525.6,2004,4,10,Vintage Cars,UK,EMEA
+3602.16,2004,4,10,Vintage Cars,France,EMEA
+4300.5,2004,4,11,Vintage Cars,Sweden,EMEA
+3023.1,2004,4,12,Vintage Cars,Spain,EMEA
+3562.49,2005,1,1,Vintage Cars,Japan,Japan
+1640.24,2005,1,2,Vintage Cars,Spain,EMEA
+4228.2,2003,1,1,Trucks and Buses,Norway,EMEA
+4815.45,2003,2,4,Trucks and Buses,France,EMEA
+7083.0,2003,2,5,Trucks and Buses,Spain,EMEA
+6467.02,2003,3,9,Trucks and Buses,Singapore,Japan
+5012.55,2003,4,10,Trucks and Buses,Austria,EMEA
+5121.59,2003,4,11,Trucks and Buses,UK,EMEA
+4262.08,2003,4,11,Trucks and Buses,France,EMEA
+4509.08,2004,1,2,Trucks and Buses,Singapore,APAC
+4666.62,2004,2,6,Trucks and Buses,Singapore,APAC
+5383.08,2004,3,7,Trucks and Buses,Australia,APAC
+5288.64,2004,3,9,Trucks and Buses,Sweden,EMEA
+6203.06,2004,4,11,Trucks and Buses,Germany,EMEA
+6763.47,2004,4,11,Trucks and Buses,Sweden,EMEA
+5884.65,2004,4,11,Trucks and Buses,Australia,APAC
+1668.37,2005,1,1,Trucks and Buses,Australia,APAC
+4325.16,2005,2,5,Trucks and Buses,France,EMEA
+1938.89,2003,1,1,Vintage Cars,Norway,EMEA
+2314.69,2003,2,5,Vintage Cars,Spain,EMEA
+1282.8,2003,3,9,Vintage Cars,Singapore,Japan
+1345.75,2003,4,10,Vintage Cars,Austria,EMEA
+2194.22,2003,4,11,Vintage Cars,Australia,APAC
+1835.98,2003,4,11,Vintage Cars,France,EMEA
+1257.27,2004,2,6,Vintage Cars,Japan,Japan
+2567.84,2004,3,7,Vintage Cars,Australia,APAC
+1502.78,2004,3,9,Vintage Cars,Sweden,EMEA
+1676.2,2004,4,10,Vintage Cars,France,EMEA
+7110.8,2004,4,11,Vintage Cars,Spain,EMEA
+5302.8,2004,4,12,Vintage Cars,Spain,EMEA
+2730.0,2005,1,1,Vintage Cars,Australia,APAC
+1556.62,2005,2,5,Vintage Cars,Spain,EMEA
+5565.12,2003,1,3,Classic Cars,Philippines,Japan
+3583.16,2003,2,5,Classic Cars,France,EMEA
+4910.4,2003,4,11,Classic Cars,Australia,APAC
+5565.12,2003,4,11,Classic Cars,France,EMEA
+4237.76,2003,4,11,Classic Cars,Germany,EMEA
+5673.58,2004,1,1,Classic Cars,France,EMEA
+5260.15,2004,1,2,Classic Cars,Switzerland,EMEA
+6350.96,2004,2,4,Classic Cars,Denmark,EMEA
+3559.4,2004,2,5,Classic Cars,France,EMEA
+4300.32,2004,3,8,Classic Cars,Switzerland,EMEA
+7947.31,2004,3,9,Classic Cars,Finland,EMEA
+5356.8,2004,4,10,Classic Cars,Germany,EMEA
+6101.0,2004,4,11,Classic Cars,Philippines,Japan
+6276.46,2004,4,11,Classic Cars,Australia,APAC
+4203.5,2004,4,12,Classic Cars,Spain,EMEA
+1629.04,2005,1,1,Classic Cars,Finland,EMEA
+3289.86,2005,1,2,Classic Cars,Spain,EMEA
+2574.18,2003,1,3,Classic Cars,UK,EMEA
+2356.25,2003,3,9,Classic Cars,Australia,APAC
+2013.5,2003,4,10,Classic Cars,Denmark,EMEA
+2807.22,2003,4,11,Classic Cars,Italy,EMEA
+1906.5,2003,4,11,Classic Cars,Australia,APAC
+2084.75,2004,1,1,Classic Cars,UK,EMEA
+2136.01,2004,1,3,Classic Cars,France,EMEA
+2009.7,2004,2,4,Classic Cars,France,EMEA
+1575.08,2004,3,8,Classic Cars,Spain,EMEA
+1688.43,2004,3,9,Classic Cars,Singapore,APAC
+1672.1,2003,4,10,Classic Cars,UK,EMEA
+1674.75,2004,4,10,Classic Cars,Spain,EMEA
+3472.98,2004,4,11,Classic Cars,UK,EMEA
+1649.18,2004,4,11,Classic Cars,France,EMEA
+4536.0,2005,1,2,Classic Cars,Spain,EMEA
+2078.28,2005,2,5,Classic Cars,Australia,APAC
+3069.0,2003,1,3,Classic Cars,UK,EMEA
+1506.5,2003,3,9,Classic Cars,Australia,APAC
+2692.12,2003,4,10,Classic Cars,Denmark,EMEA
+3374.71,2004,1,1,Classic Cars,Spain,EMEA
+1681.46,2004,2,4,Classic Cars,France,EMEA
+2398.72,2004,3,8,Classic Cars,Spain,EMEA
+2381.04,2004,3,9,Classic Cars,Singapore,APAC
+1944.54,2003,4,10,Classic Cars,Norway,EMEA
+2273.7,2004,4,10,Classic Cars,Spain,EMEA
+1307.32,2004,4,11,Classic Cars,UK,EMEA
+1726.37,2004,4,11,Classic Cars,France,EMEA
+3441.82,2005,1,2,Classic Cars,Spain,EMEA
+3880.2,2005,2,5,Classic Cars,Australia,APAC
+1942.15,2003,1,1,Classic Cars,Spain,EMEA
+1086.6,2003,3,8,Classic Cars,Finland,EMEA
+1632.75,2003,3,9,Classic Cars,Australia,APAC
+1734.0,2003,4,10,Classic Cars,Singapore,Japan
+1857.06,2003,4,11,Classic Cars,Italy,EMEA
+1863.41,2003,4,11,Classic Cars,Spain,EMEA
+1457.82,2004,1,2,Classic Cars,Ireland,EMEA
+1955.88,2004,1,3,Classic Cars,Germany,EMEA
+2314.4,2004,2,5,Classic Cars,Spain,EMEA
+1310.96,2004,2,6,Classic Cars,Singapore,APAC
+2339.92,2004,4,10,Classic Cars,Denmark,EMEA
+5972.4,2004,4,11,Classic Cars,France,EMEA
+2673.44,2004,4,12,Classic Cars,Spain,EMEA
+2018.72,2005,1,2,Classic Cars,Spain,EMEA
+1558.99,2005,1,3,Classic Cars,Spain,EMEA
+1104.6,2005,2,5,Classic Cars,Spain,EMEA
+2575.1,2005,2,5,Classic Cars,France,EMEA
+3431.75,2003,2,4,Motorcycles,Australia,APAC
+3273.9,2003,3,7,Motorcycles,France,EMEA
+5355.36,2003,4,11,Motorcycles,France,EMEA
+2535.75,2003,4,11,Motorcycles,Norway,EMEA
+2254.0,2004,1,1,Motorcycles,France,EMEA
+2921.28,2004,1,2,Motorcycles,Australia,APAC
+2153.76,2004,3,7,Motorcycles,France,EMEA
+5455.76,2004,3,9,Motorcycles,Finland,EMEA
+2650.62,2004,4,10,Motorcycles,Norway,EMEA
+2278.53,2004,4,11,Motorcycles,Japan,Japan
+4197.1,2005,1,2,Motorcycles,Australia,APAC
+4597.65,2005,1,3,Motorcycles,Sweden,EMEA
+5287.7,2005,2,4,Motorcycles,UK,EMEA
+3550.05,2005,2,5,Motorcycles,Spain,EMEA
+1721.73,2003,1,3,Classic Cars,UK,EMEA
+2993.5,2003,2,5,Classic Cars,France,EMEA
+1295.06,2003,3,7,Classic Cars,France,EMEA
+2671.95,2003,3,9,Classic Cars,Australia,APAC
+1226.59,2003,4,10,Classic Cars,Denmark,EMEA
+1830.22,2003,4,11,Classic Cars,Norway,EMEA
+2399.85,2004,1,1,Classic Cars,Spain,EMEA
+845.25,2004,2,4,Classic Cars,France,EMEA
+1352.4,2004,3,7,Classic Cars,Italy,EMEA
+2616.0,2004,3,9,Classic Cars,Singapore,APAC
+1129.04,2003,4,10,Classic Cars,Norway,EMEA
+2218.5,2004,4,10,Classic Cars,Spain,EMEA
+1759.2,2004,4,11,Classic Cars,UK,EMEA
+977.67,2004,4,11,Classic Cars,France,EMEA
+3970.56,2005,1,2,Classic Cars,Spain,EMEA
+2233.69,2005,2,5,Classic Cars,Australia,APAC
+2481.64,2003,1,2,Planes,Italy,EMEA
+4651.53,2003,2,4,Planes,Australia,APAC
+3858.1,2003,2,6,Planes,Spain,EMEA
+2658.96,2004,1,1,Planes,Japan,Japan
+3608.76,2004,1,2,Planes,Australia,APAC
+3310.92,2004,2,6,Planes,Spain,EMEA
+2380.0,2004,3,7,Planes,France,EMEA
+2310.88,2004,3,8,Planes,Norway,EMEA
+4061.76,2004,3,9,Planes,Ireland,EMEA
+2872.25,2004,4,11,Planes,UK,EMEA
+4114.38,2004,4,11,Planes,Italy,EMEA
+1063.65,2004,4,11,Planes,Japan,Japan
+4328.6,2005,1,2,Planes,Australia,APAC
+1376.43,2005,1,3,Planes,Spain,EMEA
+5552.16,2005,1,3,Planes,France,EMEA
+4165.61,2005,2,5,Planes,Italy,EMEA
+1404.0,2003,1,1,Vintage Cars,Germany,EMEA
+710.2,2003,1,3,Vintage Cars,UK,EMEA
+977.43,2003,4,11,Vintage Cars,Italy,EMEA
+759.46,2003,4,11,Vintage Cars,Australia,APAC
+1189.44,2003,4,12,Vintage Cars,Spain,EMEA
+683.8,2004,1,1,Vintage Cars,Spain,EMEA
+1226.82,2004,1,3,Vintage Cars,France,EMEA
+577.6,2004,3,8,Vintage Cars,Italy,EMEA
+1106.93,2004,3,9,Vintage Cars,Singapore,APAC
+694.6,2004,4,10,Vintage Cars,France,EMEA
+3685.95,2004,4,11,Vintage Cars,UK,EMEA
+703.6,2004,4,11,Vintage Cars,France,EMEA
+9720.0,2004,4,12,Vintage Cars,France,EMEA
+2257.92,2005,1,2,Vintage Cars,Spain,EMEA
+8344.71,2005,1,3,Vintage Cars,Australia,APAC
+1801.94,2005,2,4,Vintage Cars,Singapore,APAC
+1209.6,2005,2,5,Vintage Cars,Australia,APAC
+2848.86,2003,2,4,Motorcycles,Australia,APAC
+3570.29,2003,3,7,Motorcycles,France,EMEA
+1474.66,2003,4,10,Motorcycles,Norway,EMEA
+1919.4,2003,4,11,Motorcycles,France,EMEA
+3656.0,2003,4,11,Motorcycles,Norway,EMEA
+1851.0,2004,1,1,Motorcycles,Japan,Japan
+2633.78,2004,1,2,Motorcycles,Australia,APAC
+2399.4,2004,3,7,Motorcycles,France,EMEA
+2096.32,2004,3,9,Motorcycles,Ireland,EMEA
+4398.9,2004,4,11,Motorcycles,Spain,EMEA
+3595.62,2005,1,1,Motorcycles,Finland,EMEA
+2443.29,2005,1,2,Motorcycles,France,EMEA
+3988.6,2005,1,3,Motorcycles,Sweden,EMEA
+5168.4,2005,2,4,Motorcycles,France,EMEA
+2803.2,2005,2,5,Motorcycles,Italy,EMEA
+6341.21,2003,1,2,Ships,Denmark,EMEA
+5189.78,2003,2,4,Ships,Singapore,Japan
+6027.75,2003,2,6,Ships,UK,EMEA
+5456.4,2003,3,9,Ships,Spain,EMEA
+3812.16,2003,4,10,Ships,Sweden,EMEA
+6083.0,2003,4,11,Ships,Spain,EMEA
+4534.6,2003,4,11,Ships,Spain,EMEA
+4301.15,2004,1,1,Ships,France,EMEA
+6804.63,2004,1,2,Ships,Belgium,EMEA
+5652.94,2004,1,3,Ships,UK,EMEA
+2784.76,2004,3,7,Ships,Belgium,EMEA
+2941.89,2004,3,9,Ships,Italy,EMEA
+3207.4,2004,4,10,Ships,UK,EMEA
+4215.05,2004,4,10,Ships,France,EMEA
+4333.29,2004,4,11,Ships,Sweden,EMEA
+1711.22,2004,4,12,Ships,Spain,EMEA
+3910.53,2005,1,1,Ships,Japan,Japan
+2472.96,2003,1,1,Vintage Cars,Germany,EMEA
+1729.65,2003,1,3,Vintage Cars,UK,EMEA
+1112.94,2003,4,11,Vintage Cars,Italy,EMEA
+1012.4,2003,4,11,Vintage Cars,Australia,APAC
+913.92,2003,4,12,Vintage Cars,Spain,EMEA
+2349.06,2004,1,1,Vintage Cars,Spain,EMEA
+1161.12,2004,1,3,Vintage Cars,France,EMEA
+1764.75,2004,2,4,Vintage Cars,Spain,EMEA
+1690.9,2004,2,6,Vintage Cars,France,EMEA
+2137.05,2004,3,8,Vintage Cars,Italy,EMEA
+2177.1,2004,3,9,Vintage Cars,Norway,EMEA
+1734.48,2004,4,10,Vintage Cars,France,EMEA
+2223.52,2004,4,11,Vintage Cars,UK,EMEA
+2311.68,2004,4,11,Vintage Cars,France,EMEA
+828.36,2004,4,12,Vintage Cars,France,EMEA
+1845.45,2005,1,2,Vintage Cars,Spain,EMEA
+4042.08,2005,1,3,Vintage Cars,Australia,APAC
+3680.28,2003,1,1,Trucks and Buses,Norway,EMEA
+2925.09,2003,2,4,Trucks and Buses,France,EMEA
+3415.77,2003,2,5,Trucks and Buses,Spain,EMEA
+5098.8,2003,3,9,Trucks and Buses,Finland,EMEA
+4661.76,2003,4,10,Trucks and Buses,Singapore,Japan
+2969.96,2003,4,11,Trucks and Buses,UK,EMEA
+3496.32,2003,4,11,Trucks and Buses,Spain,EMEA
+5760.93,2003,4,11,Trucks and Buses,France,EMEA
+3148.88,2004,1,2,Trucks and Buses,Singapore,APAC
+3520.6,2004,2,5,Trucks and Buses,Spain,EMEA
+5285.62,2004,2,6,Trucks and Buses,Singapore,APAC
+5398.08,2004,3,9,Trucks and Buses,Sweden,EMEA
+5528.04,2004,4,11,Trucks and Buses,Sweden,EMEA
+5981.42,2004,4,11,Trucks and Buses,Spain,EMEA
+5684.65,2004,4,12,Trucks and Buses,Spain,EMEA
+8498.0,2005,2,5,Trucks and Buses,Spain,EMEA
+5510.54,2005,2,5,Trucks and Buses,France,EMEA
+2060.45,2003,1,3,Motorcycles,Philippines,Japan
+2460.16,2003,2,5,Motorcycles,France,EMEA
+2816.18,2003,4,11,Motorcycles,Australia,APAC
+2521.05,2003,4,11,Motorcycles,France,EMEA
+3199.98,2003,4,11,Motorcycles,Spain,EMEA
+1338.12,2004,1,1,Motorcycles,France,EMEA
+2972.58,2004,1,2,Motorcycles,France,EMEA
+3092.6,2004,2,5,Motorcycles,France,EMEA
+2194.17,2004,3,9,Motorcycles,Finland,EMEA
+1346.4,2004,4,10,Motorcycles,Norway,EMEA
+3403.26,2004,4,11,Motorcycles,Philippines,Japan
+3307.2,2004,4,11,Motorcycles,Austria,EMEA
+2896.65,2004,4,12,Motorcycles,Spain,EMEA
+2632.89,2005,1,1,Motorcycles,Finland,EMEA
+2046.0,2005,1,2,Motorcycles,France,EMEA
+2150.55,2005,2,4,Motorcycles,UK,EMEA
+3360.45,2003,1,3,Classic Cars,UK,EMEA
+1545.6,2003,3,9,Classic Cars,Australia,APAC
+2144.6,2003,4,10,Classic Cars,Denmark,EMEA
+3966.3,2004,1,1,Classic Cars,Spain,EMEA
+4142.58,2004,1,3,Classic Cars,France,EMEA
+4441.5,2004,2,4,Classic Cars,France,EMEA
+3918.53,2004,3,8,Classic Cars,Spain,EMEA
+2830.45,2004,3,9,Classic Cars,Singapore,APAC
+5298.86,2003,4,10,Classic Cars,UK,EMEA
+2620.8,2004,4,10,Classic Cars,Spain,EMEA
+3382.08,2004,4,11,Classic Cars,UK,EMEA
+1350.0,2005,1,2,Classic Cars,Spain,EMEA
+3933.93,2005,2,5,Classic Cars,Australia,APAC
+1742.4,2003,1,1,Classic Cars,Spain,EMEA
+721.44,2003,2,4,Classic Cars,France,EMEA
+891.03,2003,3,8,Classic Cars,Finland,EMEA
+1209.3,2003,3,9,Classic Cars,Finland,EMEA
+859.14,2003,4,10,Classic Cars,Singapore,Japan
+1151.44,2003,4,11,Classic Cars,UK,EMEA
+1336.44,2003,4,11,Classic Cars,Spain,EMEA
+1767.43,2004,2,5,Classic Cars,Spain,EMEA
+1030.44,2004,2,6,Classic Cars,Singapore,APAC
+1448.07,2004,4,10,Classic Cars,Denmark,EMEA
+2985.84,2004,4,12,Classic Cars,Spain,EMEA
+6089.6,2005,1,2,Classic Cars,Spain,EMEA
+1789.4,2005,1,3,Classic Cars,Spain,EMEA
+1082.1,2005,2,5,Classic Cars,Spain,EMEA
+1030.44,2005,2,5,Classic Cars,France,EMEA
+3659.32,2003,1,2,Planes,Italy,EMEA
+2443.6,2003,2,4,Planes,Austria,EMEA
+1670.26,2003,4,10,Planes,Finland,EMEA
+1467.48,2003,4,10,Planes,Sweden,EMEA
+2748.56,2003,4,11,Planes,France,EMEA
+1522.4,2003,4,11,Planes,UK,EMEA
+3255.36,2003,4,11,Planes,Philippines,Japan
+1611.36,2004,2,6,Planes,Spain,EMEA
+2219.7,2004,3,8,Planes,Norway,EMEA
+1496.25,2004,3,9,Planes,Germany,EMEA
+2166.14,2004,4,11,Planes,UK,EMEA
+2828.16,2004,4,11,Planes,Italy,EMEA
+6214.45,2004,4,11,Planes,Japan,Japan
+1867.0,2004,4,12,Planes,UK,EMEA
+2676.72,2005,1,1,Planes,Finland,EMEA
+2182.44,2005,1,3,Planes,Spain,EMEA
+1611.4,2005,1,3,Planes,France,EMEA
+1424.22,2005,2,5,Planes,Australia,APAC
+5942.28,2003,1,3,Classic Cars,UK,EMEA
+4392.12,2003,3,9,Classic Cars,Australia,APAC
+2759.75,2003,4,10,Classic Cars,Denmark,EMEA
+2728.03,2003,4,11,Classic Cars,Italy,EMEA
+2790.45,2004,1,1,Classic Cars,UK,EMEA
+4340.49,2004,1,3,Classic Cars,France,EMEA
+2762.2,2004,2,4,Classic Cars,France,EMEA
+5580.96,2004,3,8,Classic Cars,Spain,EMEA
+6539.04,2004,3,9,Classic Cars,Singapore,APAC
+5548.95,2003,4,10,Classic Cars,UK,EMEA
+4595.41,2004,4,10,Classic Cars,Spain,EMEA
+1859.44,2004,4,11,Classic Cars,UK,EMEA
+1596.76,2005,1,2,Classic Cars,Spain,EMEA
+5296.5,2005,2,5,Classic Cars,Australia,APAC
+1207.44,2003,2,5,Classic Cars,France,EMEA
+1578.79,2003,4,11,Classic Cars,Norway,EMEA
+777.0,2003,4,12,Classic Cars,Spain,EMEA
+1476.28,2004,1,1,Classic Cars,Spain,EMEA
+1538.46,2004,1,2,Classic Cars,Switzerland,EMEA
+891.2,2004,2,4,Classic Cars,Finland,EMEA
+1706.8,2004,2,6,Classic Cars,UK,EMEA
+1373.6,2004,3,7,Classic Cars,Italy,EMEA
+1427.4,2004,3,8,Classic Cars,Switzerland,EMEA
+1649.28,2003,4,10,Classic Cars,Norway,EMEA
+1383.03,2004,4,10,Classic Cars,Germany,EMEA
+1575.6,2004,4,11,Classic Cars,Australia,APAC
+1386.72,2004,4,12,Classic Cars,Spain,EMEA
+5856.85,2005,1,2,Classic Cars,Spain,EMEA
+2094.32,2005,2,4,Classic Cars,France,EMEA
+640.05,2005,2,5,Classic Cars,Austria,EMEA
+3193.52,2003,1,2,Vintage Cars,Denmark,EMEA
+3066.7,2003,2,4,Vintage Cars,Austria,EMEA
+3883.11,2003,2,6,Vintage Cars,UK,EMEA
+1593.2,2003,4,10,Vintage Cars,Sweden,EMEA
+3266.1,2003,4,11,Vintage Cars,Spain,EMEA
+3910.4,2003,4,11,Vintage Cars,Spain,EMEA
+1788.0,2004,1,1,Vintage Cars,France,EMEA
+2796.12,2004,3,7,Vintage Cars,Belgium,EMEA
+2606.48,2004,4,10,Vintage Cars,UK,EMEA
+2081.76,2004,4,10,Vintage Cars,France,EMEA
+3519.85,2004,4,11,Vintage Cars,Sweden,EMEA
+10758.0,2004,4,11,Vintage Cars,Japan,Japan
+3021.0,2004,4,12,Vintage Cars,Spain,EMEA
+1891.56,2005,1,1,Vintage Cars,Finland,EMEA
+1987.74,2003,1,3,Classic Cars,UK,EMEA
+2282.22,2003,3,9,Classic Cars,Australia,APAC
+1541.0,2003,4,10,Classic Cars,Denmark,EMEA
+2149.74,2004,1,1,Classic Cars,Spain,EMEA
+3184.8,2004,1,3,Classic Cars,France,EMEA
+2114.58,2004,2,4,Classic Cars,France,EMEA
+2344.98,2004,3,8,Classic Cars,Spain,EMEA
+2328.66,2004,3,9,Classic Cars,Singapore,APAC
+3575.04,2003,4,10,Classic Cars,UK,EMEA
+2076.0,2004,4,10,Classic Cars,Spain,EMEA
+1538.55,2004,4,11,Classic Cars,UK,EMEA
+3478.64,2005,1,2,Classic Cars,Spain,EMEA
+3385.9,2005,2,5,Classic Cars,Australia,APAC
+1892.1,2003,1,3,Classic Cars,Philippines,Japan
+1707.14,2003,2,5,Classic Cars,France,EMEA
+1707.14,2003,4,11,Classic Cars,Australia,APAC
+1506.96,2003,4,11,Classic Cars,Norway,EMEA
+2880.48,2003,4,11,Classic Cars,Germany,EMEA
+2206.6,2003,4,12,Classic Cars,Spain,EMEA
+2351.04,2004,1,1,Classic Cars,France,EMEA
+1205.04,2004,1,2,Classic Cars,Switzerland,EMEA
+2935.15,2004,2,4,Classic Cars,Denmark,EMEA
+1263.84,2004,2,6,Classic Cars,UK,EMEA
+2935.15,2004,3,7,Classic Cars,Italy,EMEA
+1359.4,2004,3,8,Classic Cars,Switzerland,EMEA
+1822.18,2003,4,10,Classic Cars,Germany,EMEA
+2163.72,2004,4,10,Classic Cars,Germany,EMEA
+1591.98,2004,4,11,Classic Cars,Sweden,EMEA
+2997.6,2004,4,11,Classic Cars,Australia,APAC
+2747.8,2004,4,12,Classic Cars,Spain,EMEA
+2447.76,2005,1,1,Classic Cars,Finland,EMEA
+1910.84,2005,1,2,Classic Cars,Spain,EMEA
+2896.3,2005,2,5,Classic Cars,Austria,EMEA
+1630.6,2003,1,2,Vintage Cars,Italy,EMEA
+1459.6,2003,2,4,Vintage Cars,Austria,EMEA
+1900.26,2003,4,10,Vintage Cars,Finland,EMEA
+2019.84,2003,4,10,Vintage Cars,Sweden,EMEA
+1988.28,2003,4,11,Vintage Cars,France,EMEA
+1449.84,2003,4,11,Vintage Cars,UK,EMEA
+1935.09,2003,4,11,Vintage Cars,Philippines,Japan
+3236.1,2004,2,6,Vintage Cars,Spain,EMEA
+2795.13,2004,3,8,Vintage Cars,Norway,EMEA
+1671.52,2004,3,9,Vintage Cars,Germany,EMEA
+3615.71,2004,4,11,Vintage Cars,UK,EMEA
+1459.6,2004,4,11,Vintage Cars,Italy,EMEA
+2891.01,2004,4,11,Vintage Cars,Japan,Japan
+2598.44,2004,4,12,Vintage Cars,UK,EMEA
+3871.92,2004,4,12,Vintage Cars,Australia,APAC
+3036.0,2005,1,1,Vintage Cars,Finland,EMEA
+2231.6,2005,1,3,Vintage Cars,Spain,EMEA
+2436.78,2005,1,3,Vintage Cars,France,EMEA
+1254.6,2005,2,5,Vintage Cars,Australia,APAC
+3724.42,2003,1,3,Classic Cars,UK,EMEA
+3469.5,2003,3,9,Classic Cars,Australia,APAC
+3148.2,2003,4,10,Classic Cars,Denmark,EMEA
+4039.26,2004,1,1,Classic Cars,Spain,EMEA
+2341.71,2004,2,4,Classic Cars,France,EMEA
+6168.0,2004,3,8,Classic Cars,Spain,EMEA
+4873.26,2004,3,9,Classic Cars,Singapore,APAC
+2120.14,2003,4,10,Classic Cars,Norway,EMEA
+4236.14,2004,4,10,Classic Cars,Spain,EMEA
+1152.58,2004,4,11,Classic Cars,UK,EMEA
+3953.18,2005,1,2,Classic Cars,Spain,EMEA
+2617.16,2005,2,5,Classic Cars,Australia,APAC
+3983.5,2003,1,2,Vintage Cars,Denmark,EMEA
+3169.95,2003,2,4,Vintage Cars,Austria,EMEA
+3899.5,2003,2,6,Vintage Cars,UK,EMEA
+2513.41,2003,4,10,Vintage Cars,Finland,EMEA
+2431.94,2003,4,10,Vintage Cars,Sweden,EMEA
+1514.52,2003,4,11,Vintage Cars,France,EMEA
+3079.44,2003,4,11,Vintage Cars,UK,EMEA
+1900.36,2003,4,11,Vintage Cars,Spain,EMEA
+4273.29,2004,2,6,Vintage Cars,Spain,EMEA
+3984.96,2004,3,7,Vintage Cars,Belgium,EMEA
+1697.3,2004,3,9,Vintage Cars,Germany,EMEA
+2306.25,2004,4,11,Vintage Cars,UK,EMEA
+1845.0,2004,4,11,Vintage Cars,Sweden,EMEA
+2493.12,2004,4,11,Vintage Cars,Japan,Japan
+1508.5,2004,4,12,Vintage Cars,Spain,EMEA
+2394.3,2005,1,1,Vintage Cars,Finland,EMEA
+5448.8,2003,1,3,Classic Cars,Philippines,Japan
+5494.97,2003,2,5,Classic Cars,France,EMEA
+3819.56,2003,4,11,Classic Cars,Austria,EMEA
+3861.75,2003,4,11,Classic Cars,Norway,EMEA
+6996.42,2003,4,12,Classic Cars,Spain,EMEA
+6949.67,2004,1,1,Classic Cars,Spain,EMEA
+4550.0,2004,1,2,Classic Cars,Switzerland,EMEA
+4479.63,2004,2,4,Classic Cars,Finland,EMEA
+5148.0,2004,2,6,Classic Cars,UK,EMEA
+2932.08,2004,3,7,Classic Cars,Italy,EMEA
+4297.32,2004,3,8,Classic Cars,Switzerland,EMEA
+7723.5,2003,4,10,Classic Cars,Norway,EMEA
+5497.65,2004,4,10,Classic Cars,Germany,EMEA
+5013.54,2004,4,11,Classic Cars,Australia,APAC
+5302.72,2004,4,12,Classic Cars,Spain,EMEA
+2931.98,2005,1,1,Classic Cars,Finland,EMEA
+1757.91,2005,1,2,Classic Cars,Spain,EMEA
+11739.7,2005,2,4,Classic Cars,France,EMEA
+9240.0,2005,2,5,Classic Cars,Austria,EMEA
+3241.5,2003,1,2,Planes,Italy,EMEA
+1968.12,2003,2,4,Planes,Austria,EMEA
+3392.84,2003,4,10,Planes,Finland,EMEA
+2169.9,2003,4,11,Planes,France,EMEA
+2846.17,2003,4,11,Planes,Philippines,Japan
+2018.4,2004,1,1,Planes,Japan,Japan
+2948.16,2004,2,6,Planes,Spain,EMEA
+3357.49,2004,3,7,Planes,France,EMEA
+1175.16,2004,3,8,Planes,Norway,EMEA
+2292.8,2004,3,9,Planes,Germany,EMEA
+2333.7,2004,4,11,Planes,UK,EMEA
+2675.05,2004,4,11,Planes,Italy,EMEA
+4361.4,2004,4,11,Planes,Japan,Japan
+2018.58,2004,4,12,Planes,UK,EMEA
+3710.98,2004,4,12,Planes,Australia,APAC
+2847.0,2005,1,1,Planes,Finland,EMEA
+3006.12,2005,1,3,Planes,Spain,EMEA
+2797.84,2005,1,3,Planes,France,EMEA
+1351.08,2005,2,5,Planes,Italy,EMEA
+1654.56,2003,1,3,Vintage Cars,UK,EMEA
+1163.05,2003,4,11,Vintage Cars,Italy,EMEA
+902.66,2003,4,11,Vintage Cars,Australia,APAC
+1534.72,2004,1,1,Vintage Cars,Spain,EMEA
+1185.3,2004,1,3,Vintage Cars,France,EMEA
+1381.05,2004,3,8,Vintage Cars,Italy,EMEA
+1340.46,2004,3,9,Vintage Cars,Singapore,APAC
+965.04,2004,4,10,Vintage Cars,Spain,EMEA
+3166.84,2004,4,11,Vintage Cars,UK,EMEA
+4086.29,2005,1,2,Vintage Cars,Spain,EMEA
+553.95,2005,2,4,Vintage Cars,Japan,Japan
+652.35,2005,2,5,Vintage Cars,Australia,APAC
+2921.62,2003,1,1,Classic Cars,Spain,EMEA
+3784.8,2003,3,8,Classic Cars,Finland,EMEA
+2802.09,2003,3,9,Classic Cars,Australia,APAC
+2384.64,2003,4,10,Classic Cars,Singapore,Japan
+2915.66,2003,4,11,Classic Cars,Italy,EMEA
+5795.72,2003,4,11,Classic Cars,Spain,EMEA
+5032.74,2004,1,2,Classic Cars,Ireland,EMEA
+4737.15,2004,1,3,Classic Cars,Germany,EMEA
+6311.2,2004,2,5,Classic Cars,Spain,EMEA
+4000.26,2004,4,10,Classic Cars,Denmark,EMEA
+5325.76,2004,4,11,Classic Cars,Norway,EMEA
+4618.69,2004,4,11,Classic Cars,France,EMEA
+2603.04,2004,4,12,Classic Cars,France,EMEA
+1972.11,2005,1,2,Classic Cars,Spain,EMEA
+5207.75,2005,1,3,Classic Cars,Spain,EMEA
+4253.2,2005,2,5,Classic Cars,Spain,EMEA
+2873.0,2003,1,1,Vintage Cars,Norway,EMEA
+3576.12,2003,2,5,Vintage Cars,Spain,EMEA
+3276.13,2003,3,7,Vintage Cars,Australia,APAC
+2571.14,2003,4,11,Vintage Cars,Italy,EMEA
+2279.0,2003,4,11,Vintage Cars,Australia,APAC
+3467.2,2004,2,4,Vintage Cars,Spain,EMEA
+4674.72,2004,3,7,Vintage Cars,Austria,EMEA
+1656.69,2004,3,8,Vintage Cars,Italy,EMEA
+3342.57,2004,4,10,Vintage Cars,France,EMEA
+1962.09,2004,4,11,Vintage Cars,Spain,EMEA
+6847.0,2004,4,12,Vintage Cars,Spain,EMEA
+2208.92,2005,2,5,Vintage Cars,Belgium,EMEA
+1657.76,2003,1,2,Planes,Italy,EMEA
+2479.21,2003,2,4,Planes,Australia,APAC
+3565.92,2003,2,6,Planes,Spain,EMEA
+2840.0,2004,1,1,Planes,Japan,Japan
+1716.26,2004,1,2,Planes,Australia,APAC
+1682.37,2004,3,7,Planes,France,EMEA
+1491.0,2004,3,8,Planes,Norway,EMEA
+1666.35,2004,3,9,Planes,Ireland,EMEA
+2616.98,2004,4,11,Planes,Italy,EMEA
+3390.8,2004,4,11,Planes,Spain,EMEA
+1561.5,2004,4,12,Planes,Australia,APAC
+10039.6,2005,1,2,Planes,France,EMEA
+3167.0,2005,1,3,Planes,Spain,EMEA
+3521.25,2005,1,3,Planes,France,EMEA
+3581.76,2005,2,5,Planes,Italy,EMEA
+2130.01,2003,1,3,Classic Cars,Philippines,Japan
+2063.06,2003,2,5,Classic Cars,France,EMEA
+2269.92,2003,4,11,Classic Cars,Australia,APAC
+1991.92,2003,4,11,Classic Cars,France,EMEA
+2916.76,2003,4,11,Classic Cars,Germany,EMEA
+2027.52,2004,1,1,Classic Cars,France,EMEA
+3235.18,2004,1,2,Classic Cars,Switzerland,EMEA
+2062.94,2004,2,4,Classic Cars,Denmark,EMEA
+3317.78,2004,2,5,Classic Cars,France,EMEA
+3524.8,2004,3,8,Classic Cars,Switzerland,EMEA
+2586.88,2004,3,9,Classic Cars,Finland,EMEA
+4753.49,2004,4,10,Classic Cars,Germany,EMEA
+3098.7,2004,4,11,Classic Cars,France,EMEA
+2670.92,2004,4,12,Classic Cars,Spain,EMEA
+5154.41,2005,1,1,Classic Cars,Finland,EMEA
+4894.17,2005,1,2,Classic Cars,Spain,EMEA
+3224.31,2003,1,1,Trucks and Buses,Norway,EMEA
+3667.52,2003,2,4,Trucks and Buses,France,EMEA
+4141.33,2003,2,5,Trucks and Buses,Spain,EMEA
+3068.55,2003,3,9,Trucks and Buses,Finland,EMEA
+2634.96,2003,4,10,Trucks and Buses,Austria,EMEA
+2436.72,2003,4,11,Trucks and Buses,UK,EMEA
+4607.36,2003,4,11,Trucks and Buses,Spain,EMEA
+3598.99,2003,4,11,Trucks and Buses,France,EMEA
+2244.9,2004,1,2,Trucks and Buses,Singapore,APAC
+3900.6,2004,2,6,Trucks and Buses,Singapore,APAC
+2743.04,2004,3,7,Trucks and Buses,Australia,APAC
+2178.54,2004,3,9,Trucks and Buses,Sweden,EMEA
+6386.94,2004,4,11,Trucks and Buses,Spain,EMEA
+4428.0,2004,4,12,Trucks and Buses,Spain,EMEA
+3553.88,2005,2,5,Trucks and Buses,France,EMEA
+2461.36,2003,2,4,Motorcycles,Australia,APAC
+2642.01,2003,2,6,Motorcycles,Spain,EMEA
+4351.16,2003,4,11,Motorcycles,Norway,EMEA
+3675.86,2004,1,1,Motorcycles,Japan,Japan
+2475.27,2004,1,2,Motorcycles,Australia,APAC
+1883.93,2004,3,7,Motorcycles,France,EMEA
+2856.88,2004,3,9,Motorcycles,Ireland,EMEA
+6482.85,2004,4,11,Motorcycles,Spain,EMEA
+6576.5,2005,1,1,Motorcycles,Finland,EMEA
+6353.27,2005,1,2,Motorcycles,France,EMEA
+4175.6,2005,1,3,Motorcycles,Singapore,Japan
+4764.6,2005,2,5,Motorcycles,Italy,EMEA
+1173.15,2003,1,3,Motorcycles,Philippines,Japan
+1384.46,2003,2,5,Motorcycles,France,EMEA
+1035.58,2003,4,11,Motorcycles,Australia,APAC
+1545.64,2003,4,11,Motorcycles,France,EMEA
+1517.54,2003,4,11,Motorcycles,Spain,EMEA
+1731.84,2004,1,1,Motorcycles,France,EMEA
+1695.49,2004,1,2,Motorcycles,France,EMEA
+1738.08,2004,2,5,Motorcycles,France,EMEA
+1013.76,2004,3,9,Motorcycles,Finland,EMEA
+1549.8,2004,4,10,Motorcycles,Germany,EMEA
+3713.16,2004,4,11,Motorcycles,France,EMEA
+1513.54,2004,4,12,Motorcycles,Spain,EMEA
+2317.44,2005,1,1,Motorcycles,France,EMEA
+3298.4,2005,1,2,Motorcycles,Spain,EMEA
+1206.9,2005,2,4,Motorcycles,UK,EMEA
+1666.7,2003,1,1,Trucks and Buses,Spain,EMEA
+1560.44,2003,2,4,Trucks and Buses,France,EMEA
+1103.76,2003,3,8,Trucks and Buses,Finland,EMEA
+2617.85,2003,3,9,Trucks and Buses,Finland,EMEA
+2207.52,2003,4,10,Trucks and Buses,Singapore,Japan
+3165.5,2003,4,11,Trucks and Buses,UK,EMEA
+2071.41,2003,4,11,Trucks and Buses,Spain,EMEA
+1704.5,2004,2,5,Trucks and Buses,Spain,EMEA
+1753.2,2004,2,6,Trucks and Buses,Singapore,APAC
+8844.12,2004,4,11,Trucks and Buses,Norway,EMEA
+6358.68,2004,4,12,Trucks and Buses,France,EMEA
+1701.76,2005,1,2,Trucks and Buses,Spain,EMEA
+2259.72,2005,1,3,Trucks and Buses,Spain,EMEA
+925.3,2005,2,5,Trucks and Buses,Spain,EMEA
+482.13,2005,2,5,Trucks and Buses,France,EMEA
+3227.63,2003,1,1,Trains,Spain,EMEA
+1711.26,2003,2,4,Trains,Belgium,EMEA
+1681.35,2003,3,9,Trains,Australia,APAC
+2351.36,2003,4,10,Trains,Singapore,Japan
+1408.0,2003,4,11,Trains,Italy,EMEA
+2445.6,2003,4,11,Trains,Spain,EMEA
+1056.4,2004,1,2,Trains,Ireland,EMEA
+2801.4,2004,1,3,Trains,Germany,EMEA
+1988.4,2004,2,5,Trains,Finland,EMEA
+2315.18,2004,4,10,Trains,UK,EMEA
+2327.15,2004,4,10,Trains,Denmark,EMEA
+5377.4,2004,4,11,Trains,Norway,EMEA
+2626.01,2004,4,11,Trains,France,EMEA
+4406.4,2004,4,12,Trains,Spain,EMEA
+4301.22,2004,4,12,Trains,France,EMEA
+1587.08,2005,1,2,Trains,Spain,EMEA
+1808.4,2005,1,3,Trains,Spain,EMEA
+3403.35,2003,1,1,Trucks and Buses,Norway,EMEA
+1630.2,2003,2,5,Trucks and Buses,Spain,EMEA
+2850.82,2003,3,9,Trucks and Buses,Singapore,Japan
+2692.06,2003,4,10,Trucks and Buses,Austria,EMEA
+2174.42,2003,4,11,Trucks and Buses,UK,EMEA
+2142.66,2003,4,11,Trucks and Buses,France,EMEA
+2419.95,2004,1,2,Trucks and Buses,Singapore,APAC
+1228.2,2004,2,6,Trucks and Buses,Japan,Japan
+1330.35,2004,3,7,Trucks and Buses,Australia,APAC
+2296.0,2004,3,9,Trucks and Buses,Sweden,EMEA
+2629.44,2004,4,10,Trucks and Buses,France,EMEA
+3139.99,2004,4,11,Trucks and Buses,Spain,EMEA
+5669.64,2004,4,12,Trucks and Buses,Spain,EMEA
+3160.25,2005,1,1,Trucks and Buses,Australia,APAC
+2702.04,2005,2,5,Trucks and Buses,Spain,EMEA
+2406.36,2003,1,2,Vintage Cars,Italy,EMEA
+2094.67,2003,2,4,Vintage Cars,Australia,APAC
+2797.9,2003,2,6,Vintage Cars,Spain,EMEA
+1637.2,2003,3,8,Vintage Cars,Belgium,EMEA
+2307.24,2004,1,1,Vintage Cars,Japan,Japan
+1320.8,2004,1,2,Vintage Cars,Australia,APAC
+3164.4,2004,2,6,Vintage Cars,Spain,EMEA
+1791.16,2004,3,7,Vintage Cars,France,EMEA
+4093.0,2004,3,8,Vintage Cars,Norway,EMEA
+2234.4,2004,3,9,Vintage Cars,Ireland,EMEA
+1419.84,2004,4,11,Vintage Cars,UK,EMEA
+1948.08,2004,4,11,Vintage Cars,Italy,EMEA
+2307.24,2004,4,11,Vintage Cars,Spain,EMEA
+3544.17,2004,4,12,Vintage Cars,Australia,APAC
+3619.44,2005,1,2,Vintage Cars,France,EMEA
+1483.02,2005,1,3,Vintage Cars,France,EMEA
+1591.72,2005,2,5,Vintage Cars,Italy,EMEA
+3669.78,2003,1,3,Motorcycles,Philippines,Japan
+2168.5,2003,2,5,Motorcycles,France,EMEA
+3920.88,2003,4,11,Motorcycles,Australia,APAC
+2514.6,2003,4,11,Motorcycles,France,EMEA
+3600.24,2003,4,11,Motorcycles,Spain,EMEA
+4040.03,2004,1,1,Motorcycles,France,EMEA
+3336.9,2004,1,2,Motorcycles,France,EMEA
+2832.0,2004,2,5,Motorcycles,France,EMEA
+4382.16,2004,3,9,Motorcycles,Finland,EMEA
+4235.0,2004,4,10,Motorcycles,Norway,EMEA
+2201.62,2004,4,11,Motorcycles,Austria,EMEA
+4326.8,2004,4,12,Motorcycles,Spain,EMEA
+4701.88,2005,1,2,Motorcycles,France,EMEA
+5189.4,2005,2,4,Motorcycles,UK,EMEA
+1565.85,2003,1,2,Vintage Cars,Italy,EMEA
+2480.38,2003,2,4,Vintage Cars,Australia,APAC
+1355.13,2003,2,6,Vintage Cars,Spain,EMEA
+820.4,2003,4,10,Vintage Cars,Spain,EMEA
+1763.86,2004,1,1,Vintage Cars,Japan,Japan
+1896.66,2004,1,2,Vintage Cars,Australia,APAC
+1860.53,2004,2,6,Vintage Cars,Spain,EMEA
+1724.82,2004,3,7,Vintage Cars,France,EMEA
+1713.69,2004,3,8,Vintage Cars,Norway,EMEA
+1259.44,2004,3,9,Vintage Cars,Germany,EMEA
+1617.38,2004,4,11,Vintage Cars,UK,EMEA
+1765.62,2004,4,11,Vintage Cars,Italy,EMEA
+2024.8,2004,4,11,Vintage Cars,Spain,EMEA
+2725.47,2004,4,12,Vintage Cars,Australia,APAC
+3224.2,2005,1,2,Vintage Cars,France,EMEA
+1796.34,2005,1,3,Vintage Cars,France,EMEA
+1921.41,2005,2,5,Vintage Cars,Italy,EMEA
+3705.24,2003,1,1,Trucks and Buses,Spain,EMEA
+5500.44,2003,3,8,Trucks and Buses,Finland,EMEA
+3220.1,2003,3,9,Trucks and Buses,Finland,EMEA
+4556.16,2003,4,10,Trucks and Buses,Singapore,Japan
+3114.89,2003,4,11,Trucks and Buses,Italy,EMEA
+4948.2,2003,4,11,Trucks and Buses,Spain,EMEA
+3983.05,2004,1,2,Trucks and Buses,Ireland,EMEA
+3974.94,2004,1,3,Trucks and Buses,Germany,EMEA
+2928.42,2004,2,5,Trucks and Buses,Spain,EMEA
+3054.57,2004,2,6,Trucks and Buses,Singapore,APAC
+3403.12,2004,4,10,Trucks and Buses,Denmark,EMEA
+5190.42,2004,4,11,Trucks and Buses,Norway,EMEA
+3141.57,2004,4,11,Trucks and Buses,France,EMEA
+2213.4,2004,4,12,Trucks and Buses,Spain,EMEA
+4896.7,2004,4,12,Trucks and Buses,France,EMEA
+3087.05,2005,1,2,Trucks and Buses,Spain,EMEA
+5692.96,2005,1,3,Trucks and Buses,France,EMEA
+3460.86,2005,2,5,Trucks and Buses,Spain,EMEA
+1895.94,2005,2,5,Trucks and Buses,France,EMEA
+1705.92,2003,1,1,Trains,Spain,EMEA
+1033.41,2003,2,4,Trains,Singapore,Japan
+1779.71,2003,3,9,Trains,Spain,EMEA
+2537.64,2003,4,10,Trains,Singapore,Japan
+2448.72,2003,4,11,Trains,Italy,EMEA
+1968.3,2004,1,1,Trains,France,EMEA
+2056.2,2004,1,2,Trains,Ireland,EMEA
+2242.02,2004,1,3,Trains,Germany,EMEA
+3128.65,2004,2,5,Trains,Finland,EMEA
+2051.56,2004,4,10,Trains,UK,EMEA
+2337.38,2004,4,10,Trains,Denmark,EMEA
+5932.96,2004,4,11,Trains,Norway,EMEA
+6490.88,2004,4,12,Trains,Spain,EMEA
+1623.25,2004,4,12,Trains,France,EMEA
+1405.92,2005,1,1,Trains,Japan,Japan
+2282.28,2005,1,2,Trains,Spain,EMEA
+8977.05,2005,1,3,Trains,France,EMEA
+2821.66,2003,1,3,Motorcycles,Philippines,Japan
+3293.4,2003,2,5,Motorcycles,France,EMEA
+3866.4,2003,4,11,Motorcycles,Australia,APAC
+1964.76,2003,4,11,Motorcycles,France,EMEA
+2668.8,2003,4,11,Motorcycles,Spain,EMEA
+3222.0,2004,1,1,Motorcycles,France,EMEA
+3864.5,2004,1,2,Motorcycles,France,EMEA
+3475.68,2004,2,5,Motorcycles,France,EMEA
+3544.2,2004,3,9,Motorcycles,Finland,EMEA
+2483.04,2004,4,10,Motorcycles,Norway,EMEA
+4682.36,2004,4,11,Motorcycles,Austria,EMEA
+3937.7,2004,4,12,Motorcycles,France,EMEA
+5406.66,2005,1,2,Motorcycles,France,EMEA
+2118.54,2005,2,4,Motorcycles,UK,EMEA
+2897.47,2003,1,2,Ships,Denmark,EMEA
+1916.75,2003,2,4,Ships,Austria,EMEA
+1860.0,2003,2,6,Ships,UK,EMEA
+2780.81,2003,3,9,Ships,Spain,EMEA
+3239.62,2003,4,10,Ships,Sweden,EMEA
+1824.0,2003,4,11,Ships,Spain,EMEA
+1487.41,2003,4,11,Ships,Spain,EMEA
+2837.46,2004,1,1,Ships,France,EMEA
+1372.14,2004,3,7,Ships,Belgium,EMEA
+2700.0,2004,4,10,Ships,UK,EMEA
+2542.0,2004,4,10,Ships,France,EMEA
+2340.0,2004,4,11,Ships,Sweden,EMEA
+2816.44,2004,4,11,Ships,Japan,Japan
+3526.82,2004,4,12,Ships,Spain,EMEA
+4627.92,2005,1,1,Ships,Finland,EMEA
+3312.97,2003,1,2,Planes,Italy,EMEA
+3863.87,2003,2,4,Planes,Australia,APAC
+1863.36,2003,2,6,Planes,Spain,EMEA
+4954.08,2003,4,10,Planes,Spain,EMEA
+1649.55,2004,1,1,Planes,Japan,Japan
+2534.75,2004,1,2,Planes,Australia,APAC
+3361.2,2004,2,6,Planes,Spain,EMEA
+2864.32,2004,3,7,Planes,France,EMEA
+1994.88,2004,3,8,Planes,Norway,EMEA
+4296.6,2004,3,9,Planes,Germany,EMEA
+2795.14,2004,4,11,Planes,UK,EMEA
+2762.1,2004,4,11,Planes,Italy,EMEA
+2658.0,2004,4,11,Planes,Spain,EMEA
+1210.8,2004,4,12,Planes,Australia,APAC
+3029.19,2005,1,2,Planes,France,EMEA
+4121.43,2005,1,3,Planes,France,EMEA
+2100.82,2005,2,5,Planes,Italy,EMEA
+2034.35,2003,1,2,Ships,Denmark,EMEA
+3027.84,2003,2,4,Ships,Singapore,Japan
+3104.0,2003,2,6,Ships,Spain,EMEA
+2711.88,2003,3,9,Ships,Spain,EMEA
+2738.54,2003,4,11,Ships,Spain,EMEA
+3222.0,2004,1,1,Ships,France,EMEA
+2231.0,2004,1,2,Ships,Belgium,EMEA
+2296.84,2004,1,3,Ships,UK,EMEA
+2146.2,2004,3,7,Ships,Belgium,EMEA
+2084.81,2004,3,9,Ships,Italy,EMEA
+3488.78,2004,4,10,Ships,UK,EMEA
+1753.06,2004,4,10,Ships,Denmark,EMEA
+3469.2,2004,4,11,Ships,Denmark,EMEA
+2924.32,2004,4,12,Ships,Spain,EMEA
+4496.8,2005,1,1,Ships,Japan,Japan
+2577.6,2005,1,3,Ships,France,EMEA
+3177.3,2003,1,2,Ships,Italy,EMEA
+2730.06,2003,2,4,Ships,Austria,EMEA
+2925.76,2003,4,10,Ships,Finland,EMEA
+2940.02,2003,4,10,Ships,Sweden,EMEA
+3293.24,2003,4,11,Ships,France,EMEA
+2389.68,2003,4,11,Ships,UK,EMEA
+2172.48,2003,4,11,Ships,Spain,EMEA
+4142.16,2004,2,6,Ships,Spain,EMEA
+3477.86,2004,3,9,Ships,Germany,EMEA
+4195.8,2004,4,11,Ships,UK,EMEA
+4156.58,2004,4,11,Ships,Italy,EMEA
+3918.75,2004,4,11,Ships,Japan,Japan
+1089.36,2004,4,12,Ships,Australia,APAC
+2701.12,2005,1,1,Ships,Finland,EMEA
+2487.04,2005,1,3,Ships,Spain,EMEA
+3910.32,2005,1,3,Ships,France,EMEA
+3070.4,2005,2,5,Ships,Australia,APAC
+3763.46,2003,1,2,Planes,Italy,EMEA
+2584.8,2003,2,4,Planes,Australia,APAC
+2353.4,2003,4,10,Planes,Finland,EMEA
+1930.5,2003,4,11,Planes,France,EMEA
+4774.56,2003,4,11,Planes,Philippines,Japan
+2592.72,2004,1,1,Planes,Japan,Japan
+2994.75,2004,2,6,Planes,Spain,EMEA
+4472.52,2004,3,7,Planes,France,EMEA
+4576.95,2004,3,8,Planes,Norway,EMEA
+2441.04,2004,3,9,Planes,Germany,EMEA
+2706.41,2004,4,11,Planes,UK,EMEA
+4021.53,2004,4,11,Planes,Italy,EMEA
+4826.25,2004,4,11,Planes,Spain,EMEA
+2754.7,2004,4,12,Planes,Australia,APAC
+3856.71,2005,1,2,Planes,France,EMEA
+3102.08,2005,1,3,Planes,Spain,EMEA
+1908.72,2005,1,3,Planes,France,EMEA
+2457.18,2005,2,5,Planes,Italy,EMEA
+2038.87,2003,1,2,Ships,Denmark,EMEA
+2499.26,2003,2,4,Ships,Austria,EMEA
+3838.05,2003,2,6,Ships,UK,EMEA
+3225.06,2003,4,10,Ships,Sweden,EMEA
+2451.84,2003,4,11,Ships,Spain,EMEA
+3939.5,2003,4,11,Ships,Spain,EMEA
+3424.7,2004,1,1,Ships,France,EMEA
+2610.72,2004,3,7,Ships,Belgium,EMEA
+3232.31,2004,4,10,Ships,UK,EMEA
+3573.6,2004,4,11,Ships,UK,EMEA
+2022.51,2004,4,11,Ships,Denmark,EMEA
+3717.5,2004,4,11,Ships,Japan,Japan
+2185.15,2004,4,12,Ships,Spain,EMEA
+2883.53,2005,1,1,Ships,Finland,EMEA
+5017.57,2005,1,3,Ships,Spain,EMEA
+1463.0,2005,1,3,Ships,France,EMEA
+4460.82,2003,1,1,Classic Cars,Norway,EMEA
+4758.18,2003,2,4,Classic Cars,France,EMEA
+4597.2,2003,2,5,Classic Cars,Spain,EMEA
+2104.0,2003,3,9,Classic Cars,Singapore,Japan
+3195.27,2003,4,10,Classic Cars,Austria,EMEA
+3611.16,2003,4,11,Classic Cars,UK,EMEA
+2314.26,2003,4,11,Classic Cars,France,EMEA
+2728.0,2004,1,2,Classic Cars,Singapore,APAC
+3641.4,2004,2,6,Classic Cars,Japan,Japan
+4048.0,2004,3,7,Classic Cars,Australia,APAC
+3256.96,2004,3,9,Classic Cars,Sweden,EMEA
+4208.0,2004,4,10,Classic Cars,France,EMEA
+9558.8,2004,4,11,Classic Cars,France,EMEA
+2650.56,2004,4,11,Classic Cars,Spain,EMEA
+3761.37,2004,4,12,Classic Cars,Spain,EMEA
+3722.32,2005,2,5,Classic Cars,Spain,EMEA
+3986.56,2003,1,2,Planes,Italy,EMEA
+3417.12,2003,2,4,Planes,Australia,APAC
+2691.09,2003,2,6,Planes,Spain,EMEA
+3957.05,2003,4,11,Planes,Norway,EMEA
+2818.0,2004,1,1,Planes,Japan,Japan
+3199.86,2004,1,2,Planes,Australia,APAC
+6378.72,2004,3,7,Planes,France,EMEA
+3986.5,2004,3,9,Planes,Ireland,EMEA
+4072.2,2004,4,11,Planes,Italy,EMEA
+4094.51,2004,4,11,Planes,Spain,EMEA
+3186.48,2004,4,12,Planes,Australia,APAC
+1668.25,2005,1,2,Planes,France,EMEA
+2810.83,2005,1,3,Planes,France,EMEA
+5642.83,2005,2,5,Planes,Italy,EMEA
+3273.6,2003,1,2,Planes,Italy,EMEA
+3268.0,2003,2,4,Planes,Australia,APAC
+3715.2,2003,4,10,Planes,Finland,EMEA
+2678.4,2004,1,1,Planes,Japan,Japan
+1747.2,2004,1,2,Planes,Australia,APAC
+2052.0,2004,2,6,Planes,Spain,EMEA
+3164.8,2004,3,7,Planes,France,EMEA
+1740.0,2004,3,8,Planes,Norway,EMEA
+1777.6,2004,3,9,Planes,Germany,EMEA
+3609.6,2004,4,11,Planes,UK,EMEA
+2112.0,2004,4,11,Planes,Italy,EMEA
+3644.12,2004,4,11,Planes,Austria,EMEA
+5001.92,2004,4,12,Planes,Australia,APAC
+5208.72,2005,1,2,Planes,France,EMEA
+3018.88,2005,1,3,Planes,Spain,EMEA
+1902.4,2005,1,3,Planes,France,EMEA
+2620.8,2005,2,5,Planes,Italy,EMEA
+3164.46,2003,1,2,Ships,Denmark,EMEA
+4219.2,2003,2,4,Ships,Spain,EMEA
+3828.3,2003,2,6,Ships,UK,EMEA
+4407.5,2003,3,9,Ships,Spain,EMEA
+2812.8,2003,4,10,Ships,Sweden,EMEA
+4055.04,2003,4,11,Ships,Spain,EMEA
+2488.32,2003,4,11,Ships,Spain,EMEA
+4447.4,2004,1,1,Ships,France,EMEA
+4615.68,2004,1,3,Ships,UK,EMEA
+3446.0,2004,3,7,Ships,Belgium,EMEA
+2884.8,2004,4,10,Ships,UK,EMEA
+2670.65,2004,4,10,Ships,France,EMEA
+3440.0,2004,4,11,Ships,Denmark,EMEA
+2397.54,2004,4,12,Ships,Spain,EMEA
+3275.56,2005,1,1,Ships,Finland,EMEA
+4143.6,2005,1,3,Ships,Spain,EMEA
+5192.64,2005,1,3,Ships,France,EMEA
+2556.18,2003,1,2,Ships,Denmark,EMEA
+3753.9,2003,2,4,Ships,Singapore,Japan
+2562.3,2003,2,6,Ships,UK,EMEA
+2204.6,2003,3,9,Ships,Spain,EMEA
+3003.0,2003,4,10,Ships,Sweden,EMEA
+2526.48,2003,4,11,Ships,Spain,EMEA
+3267.25,2003,4,11,Ships,Spain,EMEA
+2818.53,2004,1,1,Ships,France,EMEA
+2885.05,2004,1,3,Ships,UK,EMEA
+2969.46,2004,3,7,Ships,Belgium,EMEA
+3515.7,2004,4,10,Ships,UK,EMEA
+3380.69,2004,4,10,Ships,France,EMEA
+3204.57,2004,4,11,Ships,Denmark,EMEA
+2854.75,2004,4,12,Ships,Spain,EMEA
+4025.6,2005,1,1,Ships,Finland,EMEA
+2864.4,2005,1,3,Ships,Spain,EMEA
+3789.72,2005,1,3,Ships,France,EMEA
+2949.12,2003,1,2,Planes,Italy,EMEA
+1539.72,2003,2,4,Planes,Austria,EMEA
+3778.28,2003,4,10,Planes,Finland,EMEA
+3431.25,2003,4,11,Planes,France,EMEA
+2546.8,2003,4,11,Planes,Philippines,Japan
+2953.86,2004,1,1,Planes,Japan,Japan
+2487.45,2004,2,6,Planes,Spain,EMEA
+2249.05,2004,3,7,Planes,France,EMEA
+2061.12,2004,3,8,Planes,Norway,EMEA
+4071.14,2004,3,9,Planes,Germany,EMEA
+2736.36,2004,4,11,Planes,UK,EMEA
+3348.93,2004,4,11,Planes,Italy,EMEA
+2893.0,2004,4,11,Planes,Japan,Japan
+4277.35,2004,4,12,Planes,Australia,APAC
+2502.9,2005,1,1,Planes,Finland,EMEA
+3801.6,2005,1,3,Planes,Spain,EMEA
+3144.96,2005,1,3,Planes,France,EMEA
+2674.17,2005,2,5,Planes,Italy,EMEA
+2526.72,2003,1,2,Planes,Italy,EMEA
+1348.76,2003,2,4,Planes,Austria,EMEA
+1671.44,2003,4,10,Planes,Finland,EMEA
+1668.4,2003,4,10,Planes,Sweden,EMEA
+2301.75,2003,4,11,Planes,France,EMEA
+1459.92,2003,4,11,Planes,UK,EMEA
+1209.59,2003,4,11,Planes,Spain,EMEA
+1199.31,2004,2,6,Planes,Spain,EMEA
+948.99,2004,3,9,Planes,Germany,EMEA
+1485.8,2004,4,11,Planes,UK,EMEA
+2060.37,2004,4,11,Planes,Japan,Japan
+2189.6,2004,4,12,Planes,Australia,APAC
+1624.25,2005,1,1,Planes,Finland,EMEA
+4357.5,2005,1,3,Planes,Spain,EMEA
+1367.48,2005,1,3,Planes,France,EMEA
+2419.62,2005,2,5,Planes,Australia,APAC
+1419.5,2003,1,2,Ships,Denmark,EMEA
+2184.0,2003,2,4,Ships,Singapore,Japan
+2079.04,2003,2,6,Ships,UK,EMEA
+3003.0,2003,3,9,Ships,Spain,EMEA
+1846.42,2003,4,10,Ships,Sweden,EMEA
+2009.2,2003,4,11,Ships,Spain,EMEA
+2109.66,2003,4,11,Ships,Spain,EMEA
+2682.96,2004,1,1,Ships,France,EMEA
+1192.56,2004,1,3,Ships,UK,EMEA
+1696.82,2004,3,7,Ships,Belgium,EMEA
+1921.92,2004,3,9,Ships,Italy,EMEA
+2082.85,2004,4,10,Ships,UK,EMEA
+2227.6,2004,4,10,Ships,France,EMEA
+3209.38,2004,4,11,Ships,Denmark,EMEA
+2244.4,2004,4,12,Ships,Spain,EMEA
+3978.51,2005,1,1,Ships,Finland,EMEA
+5417.57,2005,1,3,Ships,Spain,EMEA
+2116.16,2005,1,3,Ships,France,EMEA
